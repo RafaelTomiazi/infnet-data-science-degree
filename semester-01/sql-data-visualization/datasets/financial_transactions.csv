@@ -1,0 +1,1006 @@
+Transaction Number;Date;Description ;Memo;Category;Transaction Amount;Balance;Temp 1
+1001;01/01/2017;BALANCE TRANSER ;From old checking account;Transfer;$200,000.00;$250,000.00;Occaisional
+31650;01/01/2017;ATM WITHDRAWAL;7-11 ATM;Uncategorized;-$100.63;$249,899.37;Occaisional
+31617;01/01/2017;PAYMENT/TRANSFER DEBIT;Private Island Mortgage;Housing;-$26,265.59;$223,633.78;Recurring
+31618;01/02/2017;PAYMENT/TRANSFER DEBIT;Emergency Shuttle Standby;Auto & Transport;-$2,514.22;$221,119.56;Recurring
+31621;01/03/2017;PAYMENT/TRANSFER DEBIT;Universal Subway Pass;Auto & Transport;-$711.72;$220,407.84;Recurring
+31623;01/04/2017;PAYMENT/TRANSFER DEBIT;Turbo Yacht - Mooring Fees;Auto & Transport;-$4,590.72;$215,817.12;Recurring
+31620;01/04/2017;DEBIT PURCHASE;Zero Grav Poop Scoop;Pets;-$597.45;$215,219.67;Occaisional
+31625;01/05/2017;PAYMENT/TRANSFER DEBIT;Car Maintentance Service;Auto & Transport;-$788.41;$214,431.26;Recurring
+31624;01/05/2017;PAYMENT/TRANSFER DEBIT;Galaxy Express Plutonium Card;Fees & Charges;-$7,814.21;$206,617.05;Recurring
+101523;01/05/2017;Direct Deposit;Dance of Mole Men - The Album;Royalties;$596.34;$207,213.39;Recurring
+31626;01/06/2017;PAYMENT/TRANSFER DEBIT;Electric & Gas;Utilities;-$1,630.89;$205,582.50;Recurring
+31628;01/07/2017;PAYMENT/TRANSFER DEBIT;Secret Lab Insurance ;Insurance ;-$338.01;$205,244.49;Recurring
+31627;01/07/2017;PAYMENT/TRANSFER DEBIT;Private Island Volcano Insurance;Insurance ;-$2,581.41;$202,663.08;Recurring
+101561;01/07/2017;BALANCE TRANSER ;Savings Account;Transfer;$17,500.00;$220,163.08;Recurring
+31629;01/09/2017;DEBIT PURCHASE;Penthouse Rent/Timeshare;Housing;-$2,625.13;$217,537.95;Recurring
+31642;01/11/2017;DEBIT PURCHASE;M. Wells Dinette;Food & Dining;-$101.58;$217,436.37;Occaisional
+31630;01/12/2017;PAYMENT/TRANSFER DEBIT;Personal Accountant;Fees & Charges;-$2,015.72;$215,420.65;Recurring
+31632;01/13/2017;DEBIT PURCHASE;NetPix On Demand Video;Entertainment;-$0.81;$215,419.84;Occaisional
+31634;01/14/2017;PAYMENT/TRANSFER DEBIT;Emergency Medical Wing Standby;Health & Fitness;-$1,625.00;$213,794.84;Recurring
+31635;01/15/2017;DEBIT PURCHASE;Personal Satellite Network ;Utilities;-$7,506.59;$206,288.25;Recurring
+101551;01/15/2017;DIRECT DEPOSIT;Trust Fund Stock;Dividends;$189,143.00;$395,431.25;Recurring
+31636;01/16/2017;DEBIT PURCHASE;World Gurning Championships;Entertainment;-$816.28;$394,614.97;Occaisional
+101589;01/16/2017;BALANCE TRANSER ;Money Market;Transfer;$12,500.00;$407,114.97;Recurring
+31631;01/17/2017;ATM WITHDRAWAL;Work Caffeteria ATM;Uncategorized;-$100.75;$407,014.22;Occaisional
+31622;01/19/2017;DEBIT PURCHASE;Guy Savoy, Paris (Groupon) ;Food & Dining;-$2,099.66;$404,914.56;Occaisional
+31637;01/20/2017;DEBIT PURCHASE;Napa Valley Wine Train;Food & Dining;-$342.07;$404,572.49;Occaisional
+31639;01/21/2017;PAYMENT/TRANSFER DEBIT;Life and Clone Term Insurance ;Insurance ;-$224.58;$404,347.91;Recurring
+31638;01/21/2017;DEBIT PURCHASE;Secret decoder rings;Clothing & Personal ;-$164.69;$404,183.22;Occaisional
+31640;01/22/2017;PAYMENT/TRANSFER DEBIT;Personal Trainer / Body Guard;Health & Fitness;-$3,091.49;$401,091.73;Recurring
+31641;01/23/2017;PAYMENT/TRANSFER DEBIT;Personal Stylist (part time) ;Clothing & Personal ;-$1,340.33;$399,751.40;Recurring
+31644;01/24/2017;PAYMENT/TRANSFER DEBIT;Personal Chef/Nutritionist;Food & Dining;-$2,164.87;$397,586.53;Recurring
+31643;01/24/2017;PAYMENT/TRANSFER DEBIT;Personal Concierge;Entertainment;-$626.75;$396,959.78;Recurring
+31646;01/25/2017;PAYMENT/TRANSFER DEBIT;Clone maintenance / Health Insurance;Insurance ;-$576.30;$396,383.48;Recurring
+31645;01/25/2017;PAYMENT/TRANSFER DEBIT;AI Machine Learning Loans;Loans;-$4,087.58;$392,295.90;Recurring
+31648;01/26/2017;PAYMENT/TRANSFER DEBIT;Personal Lawyer;Fees & Charges;-$641.59;$391,654.31;Recurring
+31649;01/27/2017;DEBIT PURCHASE;Zero Gravity Yoga Training;Health & Fitness;-$3,755.08;$387,899.23;Occaisional
+31633;01/28/2017;DEBIT PURCHASE;Taco Shack;Food & Dining;-$16.21;$387,883.02;Occaisional
+31647;01/30/2017;DEBIT PURCHASE;Metal Man Live;Entertainment;-$6,251.59;$381,631.43;Occaisional
+31652;02/01/2017;PAYMENT/TRANSFER DEBIT;Private Island Mortgage;Housing;-$26,265.59;$355,365.84;Recurring
+31653;02/02/2017;PAYMENT/TRANSFER DEBIT;Emergency Shuttle Standby;Auto & Transport;-$2,514.22;$352,851.62;Recurring
+31683;02/03/2017;DEBIT PURCHASE;Fletwood Mac, Private Show;Entertainment;-$6,251.59;$346,600.03;Occaisional
+31656;02/03/2017;PAYMENT/TRANSFER DEBIT;Universal Subway Pass;Auto & Transport;-$711.72;$345,888.31;Recurring
+31658;02/04/2017;PAYMENT/TRANSFER DEBIT;Turbo Yacht - Mooring Fees;Auto & Transport;-$4,590.72;$341,297.59;Recurring
+31660;02/05/2017;PAYMENT/TRANSFER DEBIT;Car Maintentance Service;Auto & Transport;-$788.41;$340,509.18;Recurring
+31659;02/05/2017;PAYMENT/TRANSFER DEBIT;Galaxy Express Plutonium Card;Fees & Charges;-$4,214.22;$336,294.96;Recurring
+101524;02/05/2017;Direct Deposit;Dance of Mole Men - The Album;Royalties;$873.83;$337,168.79;Recurring
+31661;02/06/2017;PAYMENT/TRANSFER DEBIT;Electric & Gas;Utilities;-$1,814.24;$335,354.55;Recurring
+31663;02/07/2017;PAYMENT/TRANSFER DEBIT;Secret Lab Insurance ;Insurance ;-$338.01;$335,016.54;Recurring
+31662;02/07/2017;PAYMENT/TRANSFER DEBIT;Private Island Volcano Insurance;Insurance ;-$2,581.41;$332,435.13;Recurring
+101562;02/07/2017;BALANCE TRANSER ;Savings Account;Transfer;$17,500.00;$349,935.13;Recurring
+31664;02/09/2017;DEBIT PURCHASE;Penthouse Rent/Timeshare;Housing;-$2,625.13;$347,310.00;Recurring
+31665;02/12/2017;PAYMENT/TRANSFER DEBIT;Personal Accountant;Fees & Charges;-$2,015.72;$345,294.28;Recurring
+31678;02/13/2017;DEBIT PURCHASE;De Kas;Food & Dining;-$45.14;$345,249.14;Occaisional
+31667;02/13/2017;DEBIT PURCHASE;NetPix On Demand Video;Entertainment;-$0.81;$345,248.33;Occaisional
+31669;02/14/2017;PAYMENT/TRANSFER DEBIT;Emergency Medical Wing Standby;Health & Fitness;-$1,625.00;$343,623.33;Recurring
+31654;02/14/2017;DEBIT PURCHASE;Self Driving Unicycle ;Shopping;-$3,913.64;$339,709.69;Occaisional
+31670;02/15/2017;DEBIT PURCHASE;Personal Satellite Network ;Utilities;-$7,506.59;$332,203.10;Recurring
+31666;02/15/2017;ATM WITHDRAWAL;Work Caffeteria ATM;Uncategorized;-$100.75;$332,102.35;Occaisional
+31673;02/16/2017;DEBIT PURCHASE;Barbie Cafe;Food & Dining;-$80.39;$332,021.96;Occaisional
+31671;02/16/2017;DEBIT PURCHASE;World Toe Wrestling Championships;Entertainment;-$322.28;$331,699.68;Occaisional
+101590;02/16/2017;BALANCE TRANSER ;Money Market;Transfer;$12,500.00;$344,199.68;Recurring
+31672;02/18/2017;ATM WITHDRAWAL;7-11 ATM;Uncategorized;-$100.63;$344,099.05;Occaisional
+31675;02/21/2017;PAYMENT/TRANSFER DEBIT;Life and Clone Term Insurance ;Insurance ;-$224.58;$343,874.47;Recurring
+31674;02/21/2017;DEBIT PURCHASE;4 dimensional wallet;Clothing & Personal ;-$2,589.74;$341,284.73;Occaisional
+31668;02/21/2017;DEBIT PURCHASE;Taco Shack;Food & Dining;-$5.49;$341,279.24;Occaisional
+31676;02/22/2017;PAYMENT/TRANSFER DEBIT;Personal Trainer / Body Guard;Health & Fitness;-$3,091.49;$338,187.75;Recurring
+31677;02/23/2017;PAYMENT/TRANSFER DEBIT;Personal Stylist (part time) ;Clothing & Personal ;-$1,340.33;$336,847.42;Recurring
+31680;02/24/2017;PAYMENT/TRANSFER DEBIT;Personal Chef/Nutritionist;Food & Dining;-$2,164.87;$334,682.55;Recurring
+31679;02/24/2017;PAYMENT/TRANSFER DEBIT;Personal Concierge;Entertainment;-$626.75;$334,055.80;Recurring
+31655;02/24/2017;DEBIT PURCHASE;Psychotherapy Sessions - 12 pack;Pets;-$900.00;$333,155.80;Occaisional
+31682;02/25/2017;PAYMENT/TRANSFER DEBIT;Clone maintenance / Health Insurance;Insurance ;-$576.30;$332,579.50;Recurring
+31681;02/25/2017;PAYMENT/TRANSFER DEBIT;AI Machine Learning Loans;Loans;-$4,087.58;$328,491.92;Recurring
+31685;02/26/2017;DEBIT PURCHASE;Solar Powered Running Shoes;Health & Fitness;-$591.38;$327,900.54;Occaisional
+31684;02/26/2017;PAYMENT/TRANSFER DEBIT;Personal Lawyer;Fees & Charges;-$641.59;$327,258.95;Recurring
+31657;02/28/2017;DEBIT PURCHASE;Fife & Drum;Food & Dining;-$341.25;$326,917.70;Occaisional
+31687;03/01/2017;PAYMENT/TRANSFER DEBIT;Private Island Mortgage;Housing;-$26,265.59;$300,652.11;Recurring
+31688;03/02/2017;PAYMENT/TRANSFER DEBIT;Emergency Shuttle Standby;Auto & Transport;-$2,514.22;$298,137.89;Recurring
+31691;03/03/2017;PAYMENT/TRANSFER DEBIT;Universal Subway Pass;Auto & Transport;-$711.72;$297,426.17;Recurring
+31693;03/04/2017;PAYMENT/TRANSFER DEBIT;Turbo Yacht - Mooring Fees;Auto & Transport;-$4,590.72;$292,835.45;Recurring
+31695;03/05/2017;PAYMENT/TRANSFER DEBIT;Car Maintentance Service;Auto & Transport;-$788.41;$292,047.04;Recurring
+31694;03/05/2017;PAYMENT/TRANSFER DEBIT;Galaxy Express Plutonium Card;Fees & Charges;-$3,968.51;$288,078.53;Recurring
+101525;03/05/2017;Direct Deposit;Dance of Mole Men - The Album;Royalties;$3,093.77;$291,172.30;Recurring
+31720;03/06/2017;ATM WITHDRAWAL;7-11 ATM;Uncategorized;-$100.63;$291,071.67;Occaisional
+31696;03/06/2017;PAYMENT/TRANSFER DEBIT;Electric & Gas;Utilities;-$1,307.91;$289,763.76;Recurring
+31719;03/07/2017;DEBIT PURCHASE;Zero Gravity Yoga Training;Health & Fitness;-$3,755.08;$286,008.68;Occaisional
+31698;03/07/2017;PAYMENT/TRANSFER DEBIT;Secret Lab Insurance ;Insurance ;-$338.01;$285,670.67;Recurring
+31697;03/07/2017;PAYMENT/TRANSFER DEBIT;Private Island Volcano Insurance;Insurance ;-$2,581.41;$283,089.26;Recurring
+101563;03/07/2017;BALANCE TRANSER ;Savings Account;Transfer;$17,500.00;$300,589.26;Recurring
+31712;03/08/2017;DEBIT PURCHASE; De Culinaire Werkplaats;Food & Dining;-$715.30;$299,873.96;Occaisional
+31699;03/09/2017;DEBIT PURCHASE;Penthouse Rent/Timeshare;Housing;-$2,625.13;$297,248.83;Recurring
+31700;03/12/2017;PAYMENT/TRANSFER DEBIT;Personal Accountant;Fees & Charges;-$2,015.72;$295,233.11;Recurring
+31702;03/13/2017;DEBIT PURCHASE;NetPix On Demand Video;Entertainment;-$0.81;$295,232.30;Occaisional
+31704;03/14/2017;PAYMENT/TRANSFER DEBIT;Emergency Medical Wing Standby;Health & Fitness;-$1,625.00;$293,607.30;Recurring
+31701;03/14/2017;ATM WITHDRAWAL;Work Caffeteria ATM;Uncategorized;-$100.75;$293,506.55;Occaisional
+31705;03/15/2017;DEBIT PURCHASE;Personal Satellite Network ;Utilities;-$7,506.59;$285,999.96;Recurring
+31706;03/16/2017;DEBIT PURCHASE;Underwater Music Festival;Entertainment;-$5,464.24;$280,535.72;Occaisional
+101591;03/16/2017;BALANCE TRANSER ;Money Market;Transfer;$12,500.00;$293,035.72;Recurring
+31703;03/17/2017;DEBIT PURCHASE;Taco Shack;Food & Dining;-$6.29;$293,029.43;Occaisional
+31709;03/21/2017;PAYMENT/TRANSFER DEBIT;Life and Clone Term Insurance ;Insurance ;-$224.58;$292,804.85;Recurring
+31708;03/21/2017;DEBIT PURCHASE;Flame Protection Manicure;Clothing & Personal ;-$15.60;$292,789.25;Occaisional
+31690;03/21/2017;DEBIT PURCHASE;Pooch Pedometer;Pets;-$16.26;$292,772.99;Occaisional
+31710;03/22/2017;PAYMENT/TRANSFER DEBIT;Personal Trainer / Body Guard;Health & Fitness;-$3,091.49;$289,681.50;Recurring
+31711;03/23/2017;PAYMENT/TRANSFER DEBIT;Personal Stylist (part time) ;Clothing & Personal ;-$1,340.33;$288,341.17;Recurring
+31714;03/24/2017;PAYMENT/TRANSFER DEBIT;Personal Chef/Nutritionist;Food & Dining;-$2,164.87;$286,176.30;Recurring
+31713;03/24/2017;PAYMENT/TRANSFER DEBIT;Personal Concierge;Entertainment;-$626.75;$285,549.55;Recurring
+31692;03/24/2017;DEBIT PURCHASE;The Yurt at Solitude;Food & Dining;-$91.47;$285,458.08;Occaisional
+31716;03/25/2017;PAYMENT/TRANSFER DEBIT;Clone maintenance / Health Insurance;Insurance ;-$576.30;$284,881.78;Recurring
+31715;03/25/2017;PAYMENT/TRANSFER DEBIT;AI Machine Learning Loans;Loans;-$4,087.58;$280,794.20;Recurring
+31689;03/25/2017;DEBIT PURCHASE;5d printer;Shopping;-$17,508.22;$263,285.98;Occaisional
+31718;03/26/2017;PAYMENT/TRANSFER DEBIT;Personal Lawyer;Fees & Charges;-$641.59;$262,644.39;Recurring
+31717;03/26/2017;DEBIT PURCHASE;Deadpool 3, Private Show;Entertainment;-$163.53;$262,480.86;Occaisional
+31722;04/01/2017;PAYMENT/TRANSFER DEBIT;Private Island Mortgage;Housing;-$26,265.59;$236,215.27;Recurring
+31723;04/02/2017;PAYMENT/TRANSFER DEBIT;Emergency Shuttle Standby;Auto & Transport;-$2,514.22;$233,701.05;Recurring
+31724;04/03/2017;PAYMENT/TRANSFER DEBIT;Universal Subway Pass;Auto & Transport;-$711.72;$232,989.33;Recurring
+31728;04/04/2017;PAYMENT/TRANSFER DEBIT;Turbo Yacht - Mooring Fees;Auto & Transport;-$4,590.72;$228,398.61;Recurring
+31730;04/05/2017;PAYMENT/TRANSFER DEBIT;Car Maintentance Service;Auto & Transport;-$788.41;$227,610.20;Recurring
+31729;04/05/2017;PAYMENT/TRANSFER DEBIT;Galaxy Express Plutonium Card;Fees & Charges;-$4,331.34;$223,278.86;Recurring
+101526;04/05/2017;Direct Deposit;Dance of Mole Men - The Album;Royalties;$1,428.82;$224,707.68;Recurring
+31736;04/06/2017;ATM WITHDRAWAL;Work Caffeteria ATM;Uncategorized;-$100.75;$224,606.93;Occaisional
+31731;04/06/2017;PAYMENT/TRANSFER DEBIT;Electric & Gas;Utilities;-$939.22;$223,667.71;Recurring
+31733;04/07/2017;PAYMENT/TRANSFER DEBIT;Secret Lab Insurance ;Insurance ;-$338.01;$223,329.70;Recurring
+31732;04/07/2017;PAYMENT/TRANSFER DEBIT;Private Island Volcano Insurance;Insurance ;-$2,581.41;$220,748.29;Recurring
+101564;04/07/2017;BALANCE TRANSER ;Savings Account;Transfer;$17,500.00;$238,248.29;Recurring
+31734;04/09/2017;DEBIT PURCHASE;Penthouse Rent/Timeshare;Housing;-$2,625.13;$235,623.16;Recurring
+31735;04/12/2017;PAYMENT/TRANSFER DEBIT;Personal Accountant;Fees & Charges;-$2,015.72;$233,607.44;Recurring
+31737;04/13/2017;DEBIT PURCHASE;NetPix On Demand Video;Entertainment;-$0.81;$233,606.63;Occaisional
+31739;04/14/2017;PAYMENT/TRANSFER DEBIT;Emergency Medical Wing Standby;Health & Fitness;-$1,625.00;$231,981.63;Recurring
+31740;04/15/2017;DEBIT PURCHASE;Personal Satellite Network ;Utilities;-$7,506.59;$224,475.04;Recurring
+101552;04/15/2017;DIRECT DEPOSIT;Trust Fund Stock;Dividends;$184,133.00;$408,608.04;Recurring
+31741;04/16/2017;DEBIT PURCHASE;World Bog Snorkelling Championships;Entertainment;-$1,809.74;$406,798.30;Occaisional
+101592;04/16/2017;BALANCE TRANSER ;Money Market;Transfer;$12,500.00;$419,298.30;Recurring
+31754;04/19/2017;DEBIT PURCHASE;Peleton Bike for two;Health & Fitness;-$1,877.22;$417,421.08;Occaisional
+31747;04/20/2017;DEBIT PURCHASE;Masa;Food & Dining;-$249.34;$417,171.74;Occaisional
+31727;04/20/2017;DEBIT PURCHASE;Harvey Washbangers;Food & Dining;-$47.47;$417,124.27;Occaisional
+31744;04/21/2017;PAYMENT/TRANSFER DEBIT;Life and Clone Term Insurance ;Insurance ;-$224.58;$416,899.69;Recurring
+31743;04/21/2017;DEBIT PURCHASE;Formula 1 bow tie;Clothing & Personal ;-$8.14;$416,891.55;Occaisional
+31745;04/22/2017;PAYMENT/TRANSFER DEBIT;Personal Trainer / Body Guard;Health & Fitness;-$3,091.49;$413,800.06;Recurring
+31725;04/22/2017;DEBIT PURCHASE;Dance of the Mole Men, Limited Edition;Shopping;-$2,583.22;$411,216.84;Occaisional
+31746;04/23/2017;PAYMENT/TRANSFER DEBIT;Personal Stylist (part time) ;Clothing & Personal ;-$1,340.33;$409,876.51;Recurring
+31726;04/23/2017;DEBIT PURCHASE;Zero Gravity Collar;Pets;-$181.03;$409,695.48;Occaisional
+31749;04/24/2017;PAYMENT/TRANSFER DEBIT;Personal Chef/Nutritionist;Food & Dining;-$2,164.87;$407,530.61;Recurring
+31748;04/24/2017;PAYMENT/TRANSFER DEBIT;Personal Concierge;Entertainment;-$626.75;$406,903.86;Recurring
+31742;04/24/2017;DEBIT PURCHASE;Post Office Pies;Food & Dining;-$23.91;$406,879.95;Occaisional
+31751;04/25/2017;PAYMENT/TRANSFER DEBIT;Clone maintenance / Health Insurance;Insurance ;-$576.30;$406,303.65;Recurring
+31750;04/25/2017;PAYMENT/TRANSFER DEBIT;AI Machine Learning Loans;Loans;-$4,087.58;$402,216.07;Recurring
+31755;04/26/2017;ATM WITHDRAWAL;7-11 ATM;Uncategorized;-$100.63;$402,115.44;Occaisional
+31753;04/26/2017;PAYMENT/TRANSFER DEBIT;Personal Lawyer;Fees & Charges;-$641.59;$401,473.85;Recurring
+31752;04/27/2017;DEBIT PURCHASE;Beyonce, Private Show;Entertainment;-$6,251.59;$395,222.26;Occaisional
+31738;04/27/2017;DEBIT PURCHASE;Taco Shack;Food & Dining;-$24.59;$395,197.67;Occaisional
+31757;05/01/2017;PAYMENT/TRANSFER DEBIT;Private Island Mortgage;Housing;-$26,265.59;$368,932.08;Recurring
+31758;05/02/2017;PAYMENT/TRANSFER DEBIT;Emergency Shuttle Standby;Auto & Transport;-$2,514.22;$366,417.86;Recurring
+31763;05/03/2017;DEBIT PURCHASE;ICHIRAN;Food & Dining;-$22.41;$366,395.45;Occaisional
+31759;05/03/2017;PAYMENT/TRANSFER DEBIT;Universal Subway Pass;Auto & Transport;-$711.72;$365,683.73;Recurring
+31760;05/04/2017;PAYMENT/TRANSFER DEBIT;Turbo Yacht - Mooring Fees;Auto & Transport;-$4,590.72;$361,093.01;Recurring
+31771;05/05/2017;ATM WITHDRAWAL;Work Caffeteria ATM;Uncategorized;-$100.75;$360,992.26;Occaisional
+31765;05/05/2017;PAYMENT/TRANSFER DEBIT;Car Maintentance Service;Auto & Transport;-$788.41;$360,203.85;Recurring
+31764;05/05/2017;PAYMENT/TRANSFER DEBIT;Galaxy Express Plutonium Card;Fees & Charges;-$6,697.39;$353,506.46;Recurring
+101527;05/05/2017;Direct Deposit;Dance of Mole Men - The Album;Royalties;$1,706.31;$355,212.77;Recurring
+31766;05/06/2017;PAYMENT/TRANSFER DEBIT;Electric & Gas;Utilities;-$697.50;$354,515.27;Recurring
+31768;05/07/2017;PAYMENT/TRANSFER DEBIT;Secret Lab Insurance ;Insurance ;-$338.01;$354,177.26;Recurring
+31767;05/07/2017;PAYMENT/TRANSFER DEBIT;Private Island Volcano Insurance;Insurance ;-$2,581.41;$351,595.85;Recurring
+101565;05/07/2017;BALANCE TRANSER ;Savings Account;Transfer;$17,500.00;$369,095.85;Recurring
+31769;05/09/2017;DEBIT PURCHASE;Penthouse Rent/Timeshare;Housing;-$2,625.13;$366,470.72;Recurring
+31761;05/10/2017;DEBIT PURCHASE;Renault F1 Team Collection Chess Set;Shopping;-$9,505.84;$356,964.88;Occaisional
+31773;05/12/2017;DEBIT PURCHASE;Taco Shack;Food & Dining;-$106.41;$356,858.47;Occaisional
+31770;05/12/2017;PAYMENT/TRANSFER DEBIT;Personal Accountant;Fees & Charges;-$2,015.72;$354,842.75;Recurring
+31772;05/13/2017;DEBIT PURCHASE;NetPix On Demand Video;Entertainment;-$0.81;$354,841.94;Occaisional
+31774;05/14/2017;PAYMENT/TRANSFER DEBIT;Emergency Medical Wing Standby;Health & Fitness;-$1,625.00;$353,216.94;Recurring
+31775;05/15/2017;DEBIT PURCHASE;Personal Satellite Network ;Utilities;-$7,506.59;$345,710.35;Recurring
+31776;05/16/2017;DEBIT PURCHASE;Electric Air Guitar Lessons;Entertainment;-$1,309.75;$344,400.60;Occaisional
+101593;05/16/2017;BALANCE TRANSER ;Money Market;Transfer;$12,500.00;$356,900.60;Recurring
+31779;05/21/2017;PAYMENT/TRANSFER DEBIT;Life and Clone Term Insurance ;Insurance ;-$224.58;$356,676.02;Recurring
+31778;05/21/2017;DEBIT PURCHASE;Hair rustproofing;Clothing & Personal ;-$248.78;$356,427.24;Occaisional
+31777;05/21/2017;DEBIT PURCHASE;Arbies;Food & Dining;-$3.41;$356,423.83;Occaisional
+31780;05/22/2017;PAYMENT/TRANSFER DEBIT;Personal Trainer / Body Guard;Health & Fitness;-$3,091.49;$353,332.34;Recurring
+31790;05/23/2017;ATM WITHDRAWAL;7-11 ATM;Uncategorized;-$100.63;$353,231.71;Occaisional
+31781;05/23/2017;PAYMENT/TRANSFER DEBIT;Personal Stylist (part time) ;Clothing & Personal ;-$1,340.33;$351,891.38;Recurring
+31784;05/24/2017;PAYMENT/TRANSFER DEBIT;Personal Chef/Nutritionist;Food & Dining;-$2,164.87;$349,726.51;Recurring
+31783;05/24/2017;PAYMENT/TRANSFER DEBIT;Personal Concierge;Entertainment;-$626.75;$349,099.76;Recurring
+31782;05/24/2017;DEBIT PURCHASE;The Magic Castle ;Food & Dining;-$45.34;$349,054.42;Occaisional
+31787;05/25/2017;DEBIT PURCHASE;Secret Superstar Premier;Entertainment;-$223.78;$348,830.64;Occaisional
+31786;05/25/2017;PAYMENT/TRANSFER DEBIT;Clone maintenance / Health Insurance;Insurance ;-$576.30;$348,254.34;Recurring
+31785;05/25/2017;PAYMENT/TRANSFER DEBIT;AI Machine Learning Loans;Loans;-$4,087.58;$344,166.76;Recurring
+31788;05/26/2017;PAYMENT/TRANSFER DEBIT;Personal Lawyer;Fees & Charges;-$641.59;$343,525.17;Recurring
+31762;05/28/2017;DEBIT PURCHASE;Space Walk Trial Run;Pets;-$3,096.26;$340,428.91;Occaisional
+31792;06/01/2017;PAYMENT/TRANSFER DEBIT;Private Island Mortgage;Housing;-$26,265.59;$314,163.32;Recurring
+31793;06/02/2017;PAYMENT/TRANSFER DEBIT;Emergency Shuttle Standby;Auto & Transport;-$2,514.22;$311,649.10;Recurring
+31794;06/03/2017;PAYMENT/TRANSFER DEBIT;Universal Subway Pass;Auto & Transport;-$711.72;$310,937.38;Recurring
+31797;06/04/2017;DEBIT PURCHASE;Guy Savoy, Paris (Groupon) ;Food & Dining;-$31.72;$310,905.66;Occaisional
+31795;06/04/2017;PAYMENT/TRANSFER DEBIT;Turbo Yacht - Mooring Fees;Auto & Transport;-$4,590.72;$306,314.94;Recurring
+31812;06/05/2017;DEBIT PURCHASE;Tongabezi Lodge;Food & Dining;-$592.00;$305,722.94;Occaisional
+31799;06/05/2017;PAYMENT/TRANSFER DEBIT;Car Maintentance Service;Auto & Transport;-$788.41;$304,934.53;Recurring
+31798;06/05/2017;PAYMENT/TRANSFER DEBIT;Galaxy Express Plutonium Card;Fees & Charges;-$8,756.38;$296,178.15;Recurring
+101528;06/05/2017;Direct Deposit;Dance of Mole Men - The Album;Royalties;$1,983.80;$298,161.95;Recurring
+31801;06/06/2017;PAYMENT/TRANSFER DEBIT;Electric & Gas;Utilities;-$1,688.16;$296,473.79;Recurring
+31803;06/07/2017;PAYMENT/TRANSFER DEBIT;Secret Lab Insurance ;Insurance ;-$338.01;$296,135.78;Recurring
+31802;06/07/2017;PAYMENT/TRANSFER DEBIT;Private Island Volcano Insurance;Insurance ;-$2,581.41;$293,554.37;Recurring
+101566;06/07/2017;BALANCE TRANSER ;Savings Account;Transfer;$17,500.00;$311,054.37;Recurring
+31804;06/09/2017;DEBIT PURCHASE;Penthouse Rent/Timeshare;Housing;-$2,625.13;$308,429.24;Recurring
+31805;06/12/2017;PAYMENT/TRANSFER DEBIT;Personal Accountant;Fees & Charges;-$2,015.72;$306,413.52;Recurring
+31807;06/13/2017;DEBIT PURCHASE;NetPix On Demand Video;Entertainment;-$0.81;$306,412.71;Occaisional
+31817;06/14/2017;DEBIT PURCHASE;Rattlesnake Saloon;Food & Dining;-$96.36;$306,316.35;Occaisional
+31809;06/14/2017;PAYMENT/TRANSFER DEBIT;Emergency Medical Wing Standby;Health & Fitness;-$1,625.00;$304,691.35;Recurring
+31808;06/14/2017;DEBIT PURCHASE;Taco Shack;Food & Dining;-$9.46;$304,681.89;Occaisional
+31810;06/15/2017;DEBIT PURCHASE;Personal Satellite Network ;Utilities;-$7,506.59;$297,175.30;Recurring
+31806;06/15/2017;ATM WITHDRAWAL;Work Caffeteria ATM;Uncategorized;-$100.75;$297,074.55;Occaisional
+31811;06/16/2017;DEBIT PURCHASE;Finland Air Guitar World Championship;Entertainment;-$596.91;$296,477.64;Occaisional
+101594;06/16/2017;BALANCE TRANSER ;Money Market;Transfer;$12,500.00;$308,977.64;Recurring
+31800;06/18/2017;DEBIT PURCHASE;Doggie Tea Party;Pets;-$255.33;$308,722.31;Occaisional
+31824;06/21/2017;DEBIT PURCHASE;Dance of the MoleMen lessons;Health & Fitness;-$801.39;$307,920.92;Occaisional
+31814;06/21/2017;PAYMENT/TRANSFER DEBIT;Life and Clone Term Insurance ;Insurance ;-$224.58;$307,696.34;Recurring
+31813;06/21/2017;DEBIT PURCHASE;Metal Man designer pajamas;Clothing & Personal ;-$206.39;$307,489.95;Occaisional
+31815;06/22/2017;PAYMENT/TRANSFER DEBIT;Personal Trainer / Body Guard;Health & Fitness;-$3,091.49;$304,398.46;Recurring
+31816;06/23/2017;PAYMENT/TRANSFER DEBIT;Personal Stylist (part time) ;Clothing & Personal ;-$1,340.33;$303,058.13;Recurring
+31819;06/24/2017;PAYMENT/TRANSFER DEBIT;Personal Chef/Nutritionist;Food & Dining;-$2,164.87;$300,893.26;Recurring
+31818;06/24/2017;PAYMENT/TRANSFER DEBIT;Personal Concierge;Entertainment;-$626.75;$300,266.51;Recurring
+31821;06/25/2017;PAYMENT/TRANSFER DEBIT;Clone maintenance / Health Insurance;Insurance ;-$576.30;$299,690.21;Recurring
+31820;06/25/2017;PAYMENT/TRANSFER DEBIT;AI Machine Learning Loans;Loans;-$4,087.58;$295,602.63;Recurring
+31823;06/26/2017;PAYMENT/TRANSFER DEBIT;Personal Lawyer;Fees & Charges;-$641.59;$294,961.04;Recurring
+31822;06/28/2017;DEBIT PURCHASE; Roger waters-, Private Show;Entertainment;-$6,251.59;$288,709.45;Occaisional
+31825;06/30/2017;ATM WITHDRAWAL;7-11 ATM;Uncategorized;-$100.63;$288,608.82;Occaisional
+31827;07/01/2017;PAYMENT/TRANSFER DEBIT;Private Island Mortgage;Housing;-$26,265.59;$262,343.23;Recurring
+31828;07/02/2017;PAYMENT/TRANSFER DEBIT;Emergency Shuttle Standby;Auto & Transport;-$2,514.22;$259,829.01;Recurring
+31829;07/03/2017;PAYMENT/TRANSFER DEBIT;Universal Subway Pass;Auto & Transport;-$711.72;$259,117.29;Recurring
+31830;07/04/2017;PAYMENT/TRANSFER DEBIT;Turbo Yacht - Mooring Fees;Auto & Transport;-$4,590.72;$254,526.57;Recurring
+31834;07/05/2017;PAYMENT/TRANSFER DEBIT;Car Maintentance Service;Auto & Transport;-$788.41;$253,738.16;Recurring
+31833;07/05/2017;PAYMENT/TRANSFER DEBIT;Galaxy Express Plutonium Card;Fees & Charges;-$21,253.33;$232,484.83;Recurring
+31832;07/05/2017;DEBIT PURCHASE;Mars 2112;Food & Dining;-$130.33;$232,354.50;Occaisional
+101529;07/05/2017;Direct Deposit;Dance of Mole Men - The Album;Royalties;$2,261.29;$234,615.79;Recurring
+31836;07/06/2017;PAYMENT/TRANSFER DEBIT;Electric & Gas;Utilities;-$1,789.24;$232,826.55;Recurring
+31838;07/07/2017;PAYMENT/TRANSFER DEBIT;Secret Lab Insurance ;Insurance ;-$338.01;$232,488.54;Recurring
+31837;07/07/2017;PAYMENT/TRANSFER DEBIT;Private Island Volcano Insurance;Insurance ;-$2,581.41;$229,907.13;Recurring
+101567;07/07/2017;BALANCE TRANSER ;Savings Account;Transfer;$17,500.00;$247,407.13;Recurring
+31839;07/09/2017;DEBIT PURCHASE;Penthouse Rent/Timeshare;Housing;-$2,625.13;$244,782.00;Recurring
+31860;07/11/2017;ATM WITHDRAWAL;7-11 ATM;Uncategorized;-$100.63;$244,681.37;Occaisional
+31840;07/12/2017;PAYMENT/TRANSFER DEBIT;Personal Accountant;Fees & Charges;-$2,015.72;$242,665.65;Recurring
+31842;07/13/2017;DEBIT PURCHASE;NetPix On Demand Video;Entertainment;-$0.81;$242,664.84;Occaisional
+31841;07/13/2017;ATM WITHDRAWAL;Work Caffeteria ATM;Uncategorized;-$100.75;$242,564.09;Occaisional
+31831;07/13/2017;DEBIT PURCHASE;Ferrari Segway;Shopping;-$1,258.22;$241,305.87;Occaisional
+31859;07/14/2017;DEBIT PURCHASE;Black Hole Therapy;Health & Fitness;-$5,251.38;$236,054.49;Occaisional
+31844;07/14/2017;PAYMENT/TRANSFER DEBIT;Emergency Medical Wing Standby;Health & Fitness;-$1,625.00;$234,429.49;Recurring
+31845;07/15/2017;DEBIT PURCHASE;Personal Satellite Network ;Utilities;-$7,506.59;$226,922.90;Recurring
+101553;07/15/2017;DIRECT DEPOSIT;Trust Fund Stock;Dividends;$179,123.00;$406,045.90;Recurring
+31846;07/16/2017;DEBIT PURCHASE;Self Driving Unicycle Festival;Entertainment;-$416.91;$405,628.99;Occaisional
+101595;07/16/2017;BALANCE TRANSER ;Money Market;Transfer;$12,500.00;$418,128.99;Recurring
+31847;07/17/2017;DEBIT PURCHASE;Cannibalistic Sushi;Food & Dining;-$338.19;$417,790.80;Occaisional
+31843;07/20/2017;DEBIT PURCHASE;Taco Shack;Food & Dining;-$8.21;$417,782.59;Occaisional
+31852;07/21/2017;DEBIT PURCHASE;Hachikyo;Food & Dining;-$447.50;$417,335.09;Occaisional
+31849;07/21/2017;PAYMENT/TRANSFER DEBIT;Life and Clone Term Insurance ;Insurance ;-$224.58;$417,110.51;Recurring
+31848;07/21/2017;DEBIT PURCHASE;Invisible Neckties;Clothing & Personal ;-$238.78;$416,871.73;Occaisional
+31835;07/21/2017;DEBIT PURCHASE;Bowser Beer Brewery;Pets;-$1,008.03;$415,863.70;Occaisional
+31850;07/22/2017;PAYMENT/TRANSFER DEBIT;Personal Trainer / Body Guard;Health & Fitness;-$3,091.49;$412,772.21;Recurring
+31851;07/23/2017;PAYMENT/TRANSFER DEBIT;Personal Stylist (part time) ;Clothing & Personal ;-$1,340.33;$411,431.88;Recurring
+31854;07/24/2017;PAYMENT/TRANSFER DEBIT;Personal Chef/Nutritionist;Food & Dining;-$2,164.87;$409,267.01;Recurring
+31853;07/24/2017;PAYMENT/TRANSFER DEBIT;Personal Concierge;Entertainment;-$626.75;$408,640.26;Recurring
+31856;07/25/2017;PAYMENT/TRANSFER DEBIT;Clone maintenance / Health Insurance;Insurance ;-$576.30;$408,063.96;Recurring
+31855;07/25/2017;PAYMENT/TRANSFER DEBIT;AI Machine Learning Loans;Loans;-$4,087.58;$403,976.38;Recurring
+31858;07/26/2017;PAYMENT/TRANSFER DEBIT;Personal Lawyer;Fees & Charges;-$641.59;$403,334.79;Recurring
+31857;07/27/2017;DEBIT PURCHASE;Pink, Private Show;Entertainment;-$6,251.59;$397,083.20;Occaisional
+31866;07/30/2017;DEBIT PURCHASE;5 Acres on the Moon;Shopping;-$37.56;$397,045.64;Occaisional
+31862;08/01/2017;PAYMENT/TRANSFER DEBIT;Private Island Mortgage;Housing;-$26,265.59;$370,780.05;Recurring
+31863;08/02/2017;PAYMENT/TRANSFER DEBIT;Emergency Shuttle Standby;Auto & Transport;-$2,514.22;$368,265.83;Recurring
+31864;08/03/2017;PAYMENT/TRANSFER DEBIT;Universal Subway Pass;Auto & Transport;-$711.72;$367,554.11;Recurring
+31876;08/04/2017;ATM WITHDRAWAL;Work Caffeteria ATM;Uncategorized;-$100.75;$367,453.36;Occaisional
+31865;08/04/2017;PAYMENT/TRANSFER DEBIT;Turbo Yacht - Mooring Fees;Auto & Transport;-$4,590.72;$362,862.64;Recurring
+31869;08/05/2017;PAYMENT/TRANSFER DEBIT;Car Maintentance Service;Auto & Transport;-$788.41;$362,074.23;Recurring
+31868;08/05/2017;PAYMENT/TRANSFER DEBIT;Galaxy Express Plutonium Card;Fees & Charges;-$7,163.74;$354,910.49;Recurring
+101530;08/05/2017;Direct Deposit;Dance of Mole Men - The Album;Royalties;$2,538.79;$357,449.28;Recurring
+31871;08/06/2017;PAYMENT/TRANSFER DEBIT;Electric & Gas;Utilities;-$1,631.41;$355,817.87;Recurring
+31873;08/07/2017;PAYMENT/TRANSFER DEBIT;Secret Lab Insurance ;Insurance ;-$338.01;$355,479.86;Recurring
+31872;08/07/2017;PAYMENT/TRANSFER DEBIT;Private Island Volcano Insurance;Insurance ;-$2,581.41;$352,898.45;Recurring
+31870;08/07/2017;DEBIT PURCHASE;Goldfish Walker;Pets;-$62.66;$352,835.79;Occaisional
+101568;08/07/2017;BALANCE TRANSER ;Savings Account;Transfer;$17,500.00;$370,335.79;Recurring
+31895;08/09/2017;ATM WITHDRAWAL;7-11 ATM;Uncategorized;-$100.63;$370,235.16;Occaisional
+31874;08/09/2017;DEBIT PURCHASE;Penthouse Rent/Timeshare;Housing;-$2,625.13;$367,610.03;Recurring
+31878;08/10/2017;DEBIT PURCHASE;Taco Shack;Food & Dining;-$52.71;$367,557.32;Occaisional
+31875;08/12/2017;PAYMENT/TRANSFER DEBIT;Personal Accountant;Fees & Charges;-$2,015.72;$365,541.60;Recurring
+31894;08/13/2017;DEBIT PURCHASE;Zero Gravity Yoga Training;Health & Fitness;-$3,755.08;$361,786.52;Occaisional
+31877;08/13/2017;DEBIT PURCHASE;NetPix On Demand Video;Entertainment;-$0.81;$361,785.71;Occaisional
+31879;08/14/2017;PAYMENT/TRANSFER DEBIT;Emergency Medical Wing Standby;Health & Fitness;-$1,625.00;$360,160.71;Recurring
+31880;08/15/2017;DEBIT PURCHASE;Personal Satellite Network ;Utilities;-$7,506.59;$352,654.12;Recurring
+101596;08/16/2017;BALANCE TRANSER ;Money Market;Transfer;$12,500.00;$365,154.12;Recurring
+31887;08/18/2017;DEBIT PURCHASE;Eternity;Food & Dining;-$107.09;$365,047.03;Occaisional
+31884;08/21/2017;PAYMENT/TRANSFER DEBIT;Life and Clone Term Insurance ;Insurance ;-$224.58;$364,822.45;Recurring
+31883;08/21/2017;DEBIT PURCHASE;Neurosurgeon Pedicure;Clothing & Personal ;-$575.10;$364,247.35;Occaisional
+31885;08/22/2017;PAYMENT/TRANSFER DEBIT;Personal Trainer / Body Guard;Health & Fitness;-$3,091.49;$361,155.86;Recurring
+31886;08/23/2017;PAYMENT/TRANSFER DEBIT;Personal Stylist (part time) ;Clothing & Personal ;-$1,340.33;$359,815.53;Recurring
+31889;08/24/2017;PAYMENT/TRANSFER DEBIT;Personal Chef/Nutritionist;Food & Dining;-$2,164.87;$357,650.66;Recurring
+31888;08/24/2017;PAYMENT/TRANSFER DEBIT;Personal Concierge;Entertainment;-$626.75;$357,023.91;Recurring
+31891;08/25/2017;PAYMENT/TRANSFER DEBIT;Clone maintenance / Health Insurance;Insurance ;-$576.30;$356,447.61;Recurring
+31890;08/25/2017;PAYMENT/TRANSFER DEBIT;AI Machine Learning Loans;Loans;-$4,087.58;$352,360.03;Recurring
+31893;08/26/2017;PAYMENT/TRANSFER DEBIT;Personal Lawyer;Fees & Charges;-$641.59;$351,718.44;Recurring
+31929;08/29/2017;DEBIT PURCHASE;Cocoon Therapy;Health & Fitness;-$5,262.58;$346,455.86;Occaisional
+31897;09/01/2017;PAYMENT/TRANSFER DEBIT;Private Island Mortgage;Housing;-$26,265.59;$320,190.27;Recurring
+31902;09/02/2017;DEBIT PURCHASE;Lucky Cheng’s;Food & Dining;-$9.39;$320,180.88;Occaisional
+31898;09/02/2017;PAYMENT/TRANSFER DEBIT;Emergency Shuttle Standby;Auto & Transport;-$2,514.22;$317,666.66;Recurring
+31899;09/03/2017;PAYMENT/TRANSFER DEBIT;Universal Subway Pass;Auto & Transport;-$711.72;$316,954.94;Recurring
+31901;09/04/2017;DEBIT PURCHASE;Closet Water Slide;Shopping;-$6,341.33;$310,613.61;Occaisional
+31900;09/04/2017;PAYMENT/TRANSFER DEBIT;Turbo Yacht - Mooring Fees;Auto & Transport;-$4,590.72;$306,022.89;Recurring
+31904;09/05/2017;PAYMENT/TRANSFER DEBIT;Car Maintentance Service;Auto & Transport;-$788.41;$305,234.48;Recurring
+31903;09/05/2017;PAYMENT/TRANSFER DEBIT;Galaxy Express Plutonium Card;Fees & Charges;-$10,314.09;$294,920.39;Recurring
+101531;09/05/2017;Direct Deposit;Dance of Mole Men - The Album;Royalties;$2,816.28;$297,736.67;Recurring
+31906;09/06/2017;PAYMENT/TRANSFER DEBIT;Electric & Gas;Utilities;-$930.58;$296,806.09;Recurring
+31908;09/07/2017;PAYMENT/TRANSFER DEBIT;Secret Lab Insurance ;Insurance ;-$338.01;$296,468.08;Recurring
+31907;09/07/2017;PAYMENT/TRANSFER DEBIT;Private Island Volcano Insurance;Insurance ;-$2,581.41;$293,886.67;Recurring
+101569;09/07/2017;BALANCE TRANSER ;Savings Account;Transfer;$17,500.00;$311,386.67;Recurring
+31909;09/09/2017;DEBIT PURCHASE;Penthouse Rent/Timeshare;Housing;-$2,625.13;$308,761.54;Recurring
+31905;09/09/2017;DEBIT PURCHASE;Cloning service for Mervin;Pets;-$8,758.22;$300,003.32;Occaisional
+31910;09/12/2017;PAYMENT/TRANSFER DEBIT;Personal Accountant;Fees & Charges;-$2,015.72;$297,987.60;Recurring
+31927;09/13/2017;DEBIT PURCHASE;Incredibles 3;Entertainment;-$1,589.08;$296,398.52;Occaisional
+31912;09/13/2017;DEBIT PURCHASE;NetPix On Demand Video;Entertainment;-$0.81;$296,397.71;Occaisional
+31914;09/14/2017;PAYMENT/TRANSFER DEBIT;Emergency Medical Wing Standby;Health & Fitness;-$1,625.00;$294,772.71;Recurring
+31911;09/14/2017;ATM WITHDRAWAL;Work Caffeteria ATM;Uncategorized;-$100.75;$294,671.96;Occaisional
+31922;09/15/2017;DEBIT PURCHASE;Palms Thai;Food & Dining;-$173.71;$294,498.25;Occaisional
+31915;09/15/2017;DEBIT PURCHASE;Personal Satellite Network ;Utilities;-$7,506.59;$286,991.66;Recurring
+31930;09/16/2017;ATM WITHDRAWAL;7-11 ATM;Uncategorized;-$100.63;$286,891.03;Occaisional
+31916;09/16/2017;DEBIT PURCHASE;Elvis Festival;Entertainment;-$1,630.96;$285,260.07;Occaisional
+101597;09/16/2017;BALANCE TRANSER ;Money Market;Transfer;$12,500.00;$297,760.07;Recurring
+31913;09/17/2017;DEBIT PURCHASE;Taco Shack;Food & Dining;-$21.41;$297,738.66;Occaisional
+31919;09/21/2017;PAYMENT/TRANSFER DEBIT;Life and Clone Term Insurance ;Insurance ;-$224.58;$297,514.08;Recurring
+31918;09/21/2017;DEBIT PURCHASE;50,000 Monogramed Baseball Caps;Clothing & Personal ;-$4,424.88;$293,089.20;Occaisional
+31920;09/22/2017;PAYMENT/TRANSFER DEBIT;Personal Trainer / Body Guard;Health & Fitness;-$3,091.49;$289,997.71;Recurring
+31917;09/22/2017;DEBIT PURCHASE;Terry Bison Ranch;Food & Dining;-$246.35;$289,751.36;Occaisional
+31921;09/23/2017;PAYMENT/TRANSFER DEBIT;Personal Stylist (part time) ;Clothing & Personal ;-$1,340.33;$288,411.03;Recurring
+31924;09/24/2017;PAYMENT/TRANSFER DEBIT;Personal Chef/Nutritionist;Food & Dining;-$2,164.87;$286,246.16;Recurring
+31923;09/24/2017;PAYMENT/TRANSFER DEBIT;Personal Concierge;Entertainment;-$626.75;$285,619.41;Recurring
+31926;09/25/2017;PAYMENT/TRANSFER DEBIT;Clone maintenance / Health Insurance;Insurance ;-$576.30;$285,043.11;Recurring
+31925;09/25/2017;PAYMENT/TRANSFER DEBIT;AI Machine Learning Loans;Loans;-$4,087.58;$280,955.53;Recurring
+31928;09/26/2017;PAYMENT/TRANSFER DEBIT;Personal Lawyer;Fees & Charges;-$641.59;$280,313.94;Recurring
+31937;10/01/2017;DEBIT PURCHASE;Bubba Gump Shrimp Co.;Food & Dining;-$30.89;$280,283.05;Occaisional
+31932;10/01/2017;PAYMENT/TRANSFER DEBIT;Private Island Mortgage;Housing;-$26,265.59;$254,017.46;Recurring
+31933;10/02/2017;PAYMENT/TRANSFER DEBIT;Emergency Shuttle Standby;Auto & Transport;-$2,514.22;$251,503.24;Recurring
+31934;10/03/2017;PAYMENT/TRANSFER DEBIT;Universal Subway Pass;Auto & Transport;-$711.72;$250,791.52;Recurring
+31935;10/04/2017;PAYMENT/TRANSFER DEBIT;Turbo Yacht - Mooring Fees;Auto & Transport;-$4,590.72;$246,200.80;Recurring
+31940;10/05/2017;DEBIT PURCHASE;Bow-Lingual Dog Translator ;Pets;-$89.16;$246,111.64;Occaisional
+31939;10/05/2017;PAYMENT/TRANSFER DEBIT;Car Maintentance Service;Auto & Transport;-$788.41;$245,323.23;Recurring
+31938;10/05/2017;PAYMENT/TRANSFER DEBIT;Galaxy Express Plutonium Card;Fees & Charges;-$3,273.97;$242,049.26;Recurring
+101532;10/05/2017;Direct Deposit;Dance of Mole Men - The Album;Royalties;$3,093.77;$245,143.03;Recurring
+31941;10/06/2017;PAYMENT/TRANSFER DEBIT;Electric & Gas;Utilities;-$1,307.91;$243,835.12;Recurring
+31943;10/07/2017;PAYMENT/TRANSFER DEBIT;Secret Lab Insurance ;Insurance ;-$338.01;$243,497.11;Recurring
+31942;10/07/2017;PAYMENT/TRANSFER DEBIT;Private Island Volcano Insurance;Insurance ;-$2,581.41;$240,915.70;Recurring
+101570;10/07/2017;BALANCE TRANSER ;Savings Account;Transfer;$17,500.00;$258,415.70;Recurring
+31944;10/09/2017;DEBIT PURCHASE;Penthouse Rent/Timeshare;Housing;-$2,625.13;$255,790.57;Recurring
+31952;10/10/2017;DEBIT PURCHASE;Beetle House NYC;Food & Dining;-$31.41;$255,759.16;Occaisional
+31946;10/12/2017;ATM WITHDRAWAL;Work Caffeteria ATM;Uncategorized;-$100.75;$255,658.41;Occaisional
+31945;10/12/2017;PAYMENT/TRANSFER DEBIT;Personal Accountant;Fees & Charges;-$2,015.72;$253,642.69;Recurring
+31947;10/13/2017;DEBIT PURCHASE;NetPix On Demand Video;Entertainment;-$0.81;$253,641.88;Occaisional
+31949;10/14/2017;PAYMENT/TRANSFER DEBIT;Emergency Medical Wing Standby;Health & Fitness;-$1,625.00;$252,016.88;Recurring
+31950;10/15/2017;DEBIT PURCHASE;Personal Satellite Network ;Utilities;-$7,506.59;$244,510.29;Recurring
+101554;10/15/2017;DIRECT DEPOSIT;Trust Fund Stock;Dividends;$174,113.00;$418,623.29;Recurring
+31951;10/16/2017;DEBIT PURCHASE;Belgian Grand Prix Pit Pass;Entertainment;-$1,981.41;$416,641.88;Occaisional
+101598;10/16/2017;BALANCE TRANSER ;Money Market;Transfer;$12,500.00;$429,141.88;Recurring
+31957;10/20/2017;DEBIT PURCHASE;Parallax Restaurant;Food & Dining;-$195.38;$428,946.50;Occaisional
+31954;10/21/2017;PAYMENT/TRANSFER DEBIT;Life and Clone Term Insurance ;Insurance ;-$224.58;$428,721.92;Recurring
+31953;10/21/2017;DEBIT PURCHASE;Titanium Toe Boots;Clothing & Personal ;-$1,156.33;$427,565.59;Occaisional
+31955;10/22/2017;PAYMENT/TRANSFER DEBIT;Personal Trainer / Body Guard;Health & Fitness;-$3,091.49;$424,474.10;Recurring
+31948;10/22/2017;DEBIT PURCHASE;Taco Shack;Food & Dining;-$16.21;$424,457.89;Occaisional
+31956;10/23/2017;PAYMENT/TRANSFER DEBIT;Personal Stylist (part time) ;Clothing & Personal ;-$1,340.33;$423,117.56;Recurring
+31959;10/24/2017;PAYMENT/TRANSFER DEBIT;Personal Chef/Nutritionist;Food & Dining;-$2,164.87;$420,952.69;Recurring
+31958;10/24/2017;PAYMENT/TRANSFER DEBIT;Personal Concierge;Entertainment;-$626.75;$420,325.94;Recurring
+31961;10/25/2017;PAYMENT/TRANSFER DEBIT;Clone maintenance / Health Insurance;Insurance ;-$576.30;$419,749.64;Recurring
+31960;10/25/2017;PAYMENT/TRANSFER DEBIT;AI Machine Learning Loans;Loans;-$4,087.58;$415,662.06;Recurring
+31963;10/26/2017;PAYMENT/TRANSFER DEBIT;Personal Lawyer;Fees & Charges;-$641.59;$415,020.47;Recurring
+31962;10/26/2017;DEBIT PURCHASE;Halloween Party;Entertainment;-$16,472.06;$398,548.41;Occaisional
+31936;10/26/2017;DEBIT PURCHASE;Zero Gravity Roomba;Shopping;-$1,258.22;$397,290.19;Occaisional
+31965;10/29/2017;ATM WITHDRAWAL;7-11 ATM;Uncategorized;-$100.63;$397,189.56;Occaisional
+31967;11/01/2017;PAYMENT/TRANSFER DEBIT;Private Island Mortgage;Housing;-$26,265.59;$370,923.97;Recurring
+31968;11/02/2017;PAYMENT/TRANSFER DEBIT;Emergency Shuttle Standby;Auto & Transport;-$2,514.22;$368,409.75;Recurring
+31981;11/3/2017;ATM WITHDRAWAL;Work Caffeteria ATM;Uncategorized;-$100.75;$368,309.00;Occaisional
+31969;11/03/2017;PAYMENT/TRANSFER DEBIT;Universal Subway Pass;Auto & Transport;-$711.72;$367,597.28;Recurring
+31992;11/4/2017;DEBIT PURCHASE;Tonga Room;Food & Dining;-$168.59;$367,428.69;Occaisional
+31970;11/04/2017;PAYMENT/TRANSFER DEBIT;Turbo Yacht - Mooring Fees;Auto & Transport;-$4,590.72;$362,837.97;Recurring
+31974;11/05/2017;PAYMENT/TRANSFER DEBIT;Car Maintentance Service;Auto & Transport;-$788.41;$362,049.56;Recurring
+31973;11/05/2017;PAYMENT/TRANSFER DEBIT;Galaxy Express Plutonium Card;Fees & Charges;-$2,781.06;$359,268.50;Recurring
+101533;11/05/2017;Direct Deposit;Dance of Mole Men - The Album;Royalties;$3,371.26;$362,639.76;Recurring
+31976;11/06/2017;PAYMENT/TRANSFER DEBIT;Electric & Gas;Utilities;-$1,307.91;$361,331.85;Recurring
+31987;11/7/2017;DEBIT PURCHASE;A380 In-Flight Kitchen;Food & Dining;-$2,160.58;$359,171.27;Occaisional
+31978;11/07/2017;PAYMENT/TRANSFER DEBIT;Secret Lab Insurance ;Insurance ;-$338.01;$358,833.26;Recurring
+31977;11/07/2017;PAYMENT/TRANSFER DEBIT;Private Island Volcano Insurance;Insurance ;-$2,581.41;$356,251.85;Recurring
+101571;11/07/2017;BALANCE TRANSER ;Savings Account;Transfer;$17,500.00;$373,751.85;Recurring
+31979;11/09/2017;DEBIT PURCHASE;Penthouse Rent/Timeshare;Housing;-$2,625.13;$371,126.72;Recurring
+31983;11/11/2017;DEBIT PURCHASE;Taco Shack;Food & Dining;-$13.58;$371,113.14;Occaisional
+31980;11/12/2017;PAYMENT/TRANSFER DEBIT;Personal Accountant;Fees & Charges;-$2,015.72;$369,097.42;Recurring
+31999;11/13/2017;DEBIT PURCHASE;Badminton at Baden Baden;Health & Fitness;-$266.40;$368,831.02;Occaisional
+31982;11/13/2017;DEBIT PURCHASE;NetPix On Demand Video;Entertainment;-$0.81;$368,830.21;Occaisional
+31984;11/14/2017;PAYMENT/TRANSFER DEBIT;Emergency Medical Wing Standby;Health & Fitness;-$1,625.00;$367,205.21;Recurring
+31985;11/15/2017;DEBIT PURCHASE;Personal Satellite Network ;Utilities;-$7,506.59;$359,698.62;Recurring
+31986;11/16/2017;DEBIT PURCHASE;UK Driving Lessons;Entertainment;-$113.30;$359,585.32;Occaisional
+31975;11/16/2017;DEBIT PURCHASE;Dawgs Mix Tape;Pets;-$80.14;$359,505.18;Occaisional
+101599;11/16/2017;BALANCE TRANSER ;Money Market;Transfer;$12,500.00;$372,005.18;Recurring
+31989;11/21/2017;PAYMENT/TRANSFER DEBIT;Life and Clone Term Insurance ;Insurance ;-$224.58;$371,780.60;Recurring
+31988;11/21/2017;DEBIT PURCHASE;Designer Headset;Clothing & Personal ;-$81.41;$371,699.19;Occaisional
+31990;11/22/2017;PAYMENT/TRANSFER DEBIT;Personal Trainer / Body Guard;Health & Fitness;-$3,091.49;$368,607.70;Recurring
+31991;11/23/2017;PAYMENT/TRANSFER DEBIT;Personal Stylist (part time) ;Clothing & Personal ;-$1,340.33;$367,267.37;Recurring
+31994;11/24/2017;PAYMENT/TRANSFER DEBIT;Personal Chef/Nutritionist;Food & Dining;-$2,164.87;$365,102.50;Recurring
+31993;11/24/2017;PAYMENT/TRANSFER DEBIT;Personal Concierge;Entertainment;-$626.75;$364,475.75;Recurring
+31997;11/25/2017;DEBIT PURCHASE;Avengers: Infinity War Live;Entertainment;-$1,424.58;$363,051.17;Occaisional
+31996;11/25/2017;PAYMENT/TRANSFER DEBIT;Clone maintenance / Health Insurance;Insurance ;-$576.30;$362,474.87;Recurring
+31995;11/25/2017;PAYMENT/TRANSFER DEBIT;AI Machine Learning Loans;Loans;-$4,087.58;$358,387.29;Recurring
+31972;11/25/2017;DEBIT PURCHASE;The Singapore Flyer;Food & Dining;-$92.30;$358,294.99;Occaisional
+31998;11/26/2017;PAYMENT/TRANSFER DEBIT;Personal Lawyer;Fees & Charges;-$641.59;$357,653.40;Recurring
+32000;11/29/2017;ATM WITHDRAWAL;7-11 ATM;Uncategorized;-$100.63;$357,552.77;Occaisional
+31971;11/29/2017;DEBIT PURCHASE;Jewelry Safe/Humidor;Shopping;-$30,155.75;$327,397.02;Occaisional
+32002;12/01/2017;PAYMENT/TRANSFER DEBIT;Private Island Mortgage;Housing;-$26,265.59;$301,131.43;Recurring
+32003;12/02/2017;PAYMENT/TRANSFER DEBIT;Emergency Shuttle Standby;Auto & Transport;-$2,514.22;$298,617.21;Recurring
+32027;12/3/2017;DEBIT PURCHASE;Dinner in the Sky;Food & Dining;-$71.92;$298,545.29;Occaisional
+32004;12/03/2017;PAYMENT/TRANSFER DEBIT;Universal Subway Pass;Auto & Transport;-$711.72;$297,833.57;Recurring
+32005;12/04/2017;PAYMENT/TRANSFER DEBIT;Turbo Yacht - Mooring Fees;Auto & Transport;-$6,340.72;$291,492.85;Recurring
+32009;12/05/2017;PAYMENT/TRANSFER DEBIT;Car Maintentance Service;Auto & Transport;-$788.41;$290,704.44;Recurring
+32008;12/05/2017;PAYMENT/TRANSFER DEBIT;Galaxy Express Plutonium Card;Fees & Charges;-$5,914.74;$284,789.70;Recurring
+101534;12/05/2017;Direct Deposit;Dance of Mole Men - The Album;Royalties;$3,648.76;$288,438.46;Recurring
+32011;12/06/2017;PAYMENT/TRANSFER DEBIT;Electric & Gas;Utilities;-$1,307.91;$287,130.55;Recurring
+32022;12/7/2017;DEBIT PURCHASE;Steam Plant;Food & Dining;-$72.28;$287,058.27;Occaisional
+32013;12/07/2017;PAYMENT/TRANSFER DEBIT;Secret Lab Insurance ;Insurance ;-$338.01;$286,720.26;Recurring
+32012;12/07/2017;PAYMENT/TRANSFER DEBIT;Private Island Volcano Insurance;Insurance ;-$2,581.41;$284,138.85;Recurring
+101572;12/07/2017;BALANCE TRANSER ;Savings Account;Transfer;$17,500.00;$301,638.85;Recurring
+32014;12/09/2017;DEBIT PURCHASE;Penthouse Rent/Timeshare;Housing;-$2,625.13;$299,013.72;Recurring
+32015;12/12/2017;PAYMENT/TRANSFER DEBIT;Personal Accountant;Fees & Charges;-$2,015.72;$296,998.00;Recurring
+32017;12/13/2017;DEBIT PURCHASE;NetPix On Demand Video;Entertainment;-$0.81;$296,997.19;Occaisional
+32019;12/14/2017;PAYMENT/TRANSFER DEBIT;Emergency Medical Wing Standby;Health & Fitness;-$1,625.00;$295,372.19;Recurring
+32020;12/15/2017;DEBIT PURCHASE;Personal Satellite Network ;Utilities;-$7,506.59;$287,865.60;Recurring
+32006;12/15/2017;DEBIT PURCHASE;Modern Glass Pool Table;Shopping;-$18,258.22;$269,607.38;Occaisional
+32034;12/16/2017;DEBIT PURCHASE;Zero Gravity Yoga Training;Health & Fitness;-$3,755.08;$265,852.30;Occaisional
+32021;12/16/2017;DEBIT PURCHASE;Burning Man Season Pass;Entertainment;-$1,472.09;$264,380.21;Occaisional
+32018;12/16/2017;DEBIT PURCHASE;Taco Shack;Food & Dining;-$171.41;$264,208.80;Occaisional
+101600;12/16/2017;BALANCE TRANSER ;Money Market;Transfer;$12,500.00;$276,708.80;Recurring
+32035;12/18/2017;ATM WITHDRAWAL;7-11 ATM;Uncategorized;-$100.63;$276,608.17;Occaisional
+32010;12/18/2017;DEBIT PURCHASE;Dog Blazer ;Pets;-$189.56;$276,418.61;Occaisional
+32016;12/20/2017;ATM WITHDRAWAL;Work Caffeteria ATM;Uncategorized;-$100.75;$276,317.86;Occaisional
+32024;12/21/2017;PAYMENT/TRANSFER DEBIT;Life and Clone Term Insurance ;Insurance ;-$224.58;$276,093.28;Recurring
+32023;12/21/2017;DEBIT PURCHASE;Spider Silk Scarf;Clothing & Personal ;-$163.25;$275,930.03;Occaisional
+32025;12/22/2017;PAYMENT/TRANSFER DEBIT;Personal Trainer / Body Guard;Health & Fitness;-$3,091.49;$272,838.54;Recurring
+32007;12/22/2017;DEBIT PURCHASE;Hajime Robot Restaurant;Food & Dining;-$96.99;$272,741.55;Occaisional
+32026;12/23/2017;PAYMENT/TRANSFER DEBIT;Personal Stylist (part time) ;Clothing & Personal ;-$1,340.33;$271,401.22;Recurring
+32032;12/24/2017;DEBIT PURCHASE;Paul McCartney, Private Show;Entertainment;-$6,251.59;$265,149.63;Occaisional
+32029;12/24/2017;PAYMENT/TRANSFER DEBIT;Personal Chef/Nutritionist;Food & Dining;-$2,164.87;$262,984.76;Recurring
+32028;12/24/2017;PAYMENT/TRANSFER DEBIT;Personal Concierge;Entertainment;-$626.75;$262,358.01;Recurring
+32031;12/25/2017;PAYMENT/TRANSFER DEBIT;Clone maintenance / Health Insurance;Insurance ;-$576.30;$261,781.71;Recurring
+32030;12/25/2017;PAYMENT/TRANSFER DEBIT;AI Machine Learning Loans;Loans;-$4,087.58;$257,694.13;Recurring
+32033;12/26/2017;PAYMENT/TRANSFER DEBIT;Personal Lawyer;Fees & Charges;-$641.59;$257,052.54;Recurring
+32037;01/01/2018;PAYMENT/TRANSFER DEBIT;Private Island Mortgage;Housing;-$25,753.84;$231,298.70;Recurring
+32042;01/02/2018;DEBIT PURCHASE;Twin Stars;Food & Dining;-$1,592.34;$229,706.36;Occaisional
+32038;01/02/2018;PAYMENT/TRANSFER DEBIT;Emergency Shuttle Standby;Auto & Transport;-$2,789.47;$226,916.89;Recurring
+32041;01/03/2018;PAYMENT/TRANSFER DEBIT;Universal Subway Pass;Auto & Transport;-$638.07;$226,278.82;Recurring
+32062;01/04/2018;DEBIT PURCHASE;The Airplane Restaurant;Food & Dining;-$91.91;$226,186.91;Occaisional
+32043;01/04/2018;PAYMENT/TRANSFER DEBIT;Turbo Yacht - Mooring Fees;Auto & Transport;-$6,340.72;$219,846.19;Recurring
+32045;01/05/2018;PAYMENT/TRANSFER DEBIT;Car Maintentance Service;Auto & Transport;-$560.28;$219,285.91;Recurring
+32044;01/05/2018;PAYMENT/TRANSFER DEBIT;Galaxy Express Plutonium Card;Fees & Charges;-$16,147.31;$203,138.60;Recurring
+101535;01/05/2018;Direct Deposit;Dance of Mole Men - The Album;Royalties;$3,926.25;$207,064.85;Recurring
+32067;01/06/2018;DEBIT PURCHASE;Eagles , Private Show;Entertainment;-$6,251.59;$200,813.26;Occaisional
+32046;01/06/2018;PAYMENT/TRANSFER DEBIT;Electric & Gas;Utilities;-$1,307.91;$199,505.35;Recurring
+32048;01/07/2018;PAYMENT/TRANSFER DEBIT;Secret Lab Insurance ;Insurance ;-$338.01;$199,167.34;Recurring
+32047;01/07/2018;PAYMENT/TRANSFER DEBIT;Private Island Volcano Insurance;Insurance ;-$2,581.41;$196,585.93;Recurring
+101573;01/07/2018;BALANCE TRANSER ;Savings Account;Transfer;$17,500.00;$214,085.93;Recurring
+5101;01/08/2018;BALANCE TRANSER ;Emergency Account;Transfer;$6,250.00;$220,335.93;Occaisional
+32049;01/09/2018;DEBIT PURCHASE;Penthouse Rent/Timeshare;Housing;-$2,625.13;$217,710.80;Recurring
+32050;01/12/2018;PAYMENT/TRANSFER DEBIT;Personal Accountant;Fees & Charges;-$2,015.72;$215,695.08;Recurring
+32052;01/13/2018;DEBIT PURCHASE;NetPix On Demand Video;Entertainment;-$0.81;$215,694.27;Occaisional
+32054;01/14/2018;PAYMENT/TRANSFER DEBIT;Emergency Medical Wing Standby;Health & Fitness;-$1,625.00;$214,069.27;Recurring
+32055;01/15/2018;DEBIT PURCHASE;Personal Satellite Network ;Utilities;-$7,506.59;$206,562.68;Recurring
+101555;01/15/2018;DIRECT DEPOSIT;Trust Fund Stock;Dividends;$169,103.00;$375,665.68;Recurring
+32056;01/16/2018;DEBIT PURCHASE;Tango Lessons;Entertainment;-$308.87;$375,356.81;Occaisional
+101601;01/16/2018;BALANCE TRANSER ;Money Market;Transfer;$12,500.00;$387,856.81;Recurring
+32070;01/17/2018;ATM WITHDRAWAL;7-11 ATM;Uncategorized;-$100.63;$387,756.18;Occaisional
+32059;01/21/2018;PAYMENT/TRANSFER DEBIT;Life and Clone Term Insurance ;Insurance ;-$224.58;$387,531.60;Recurring
+32058;01/21/2018;DEBIT PURCHASE;Regular Human Clothes;Clothing & Personal ;-$278.13;$387,253.47;Occaisional
+32060;01/22/2018;PAYMENT/TRANSFER DEBIT;Personal Trainer / Body Guard;Health & Fitness;-$3,091.49;$384,161.98;Recurring
+32061;01/23/2018;PAYMENT/TRANSFER DEBIT;Personal Stylist (part time) ;Clothing & Personal ;-$1,340.33;$382,821.65;Recurring
+32064;01/24/2018;PAYMENT/TRANSFER DEBIT;Personal Chef/Nutritionist;Food & Dining;-$2,164.87;$380,656.78;Recurring
+32063;01/24/2018;PAYMENT/TRANSFER DEBIT;Personal Concierge;Entertainment;-$626.75;$380,030.03;Recurring
+32051;01/24/2018;ATM WITHDRAWAL;Work Caffeteria ATM;Uncategorized;-$100.75;$379,929.28;Occaisional
+32066;01/25/2018;PAYMENT/TRANSFER DEBIT;Clone maintenance / Health Insurance;Insurance ;-$576.30;$379,352.98;Recurring
+32065;01/25/2018;PAYMENT/TRANSFER DEBIT;AI Machine Learning Loans;Loans;-$3,507.56;$375,845.42;Recurring
+32069;01/26/2018;DEBIT PURCHASE;Champagn Spa ;Health & Fitness;-$1,599.65;$374,245.77;Occaisional
+32068;01/26/2018;PAYMENT/TRANSFER DEBIT;Personal Lawyer;Fees & Charges;-$641.59;$373,604.18;Recurring
+32053;01/27/2018;DEBIT PURCHASE;Taco Shack;Food & Dining;-$32.22;$373,571.96;Occaisional
+32057;01/30/2018;DEBIT PURCHASE;Kinderkookkafe;Food & Dining;-$135.47;$373,436.49;Occaisional
+32040;01/30/2018;DEBIT PURCHASE;Neuticles;Pets;-$891.05;$372,545.44;Occaisional
+32072;02/01/2018;PAYMENT/TRANSFER DEBIT;Private Island Mortgage;Housing;-$25,753.84;$346,791.60;Recurring
+32071;02/01/2018;PAYMENT/TRANSFER DEBIT;Secret Lab Mortage;Housing;-$7,564.10;$339,227.50;Recurring
+32073;02/02/2018;PAYMENT/TRANSFER DEBIT;Emergency Shuttle Standby;Auto & Transport;-$2,789.47;$336,438.03;Recurring
+32076;02/03/2018;PAYMENT/TRANSFER DEBIT;Universal Subway Pass;Auto & Transport;-$638.07;$335,799.96;Recurring
+32103;02/04/2018;DEBIT PURCHASE;Cirque du Soleil , Private Show;Entertainment;-$4,591.33;$331,208.63;Occaisional
+32078;02/04/2018;PAYMENT/TRANSFER DEBIT;Turbo Yacht - Mooring Fees;Auto & Transport;-$6,340.72;$324,867.91;Recurring
+32092;02/05/2018;ATM WITHDRAWAL;7-11 ATM;Uncategorized;-$100.63;$324,767.28;Occaisional
+32080;02/05/2018;PAYMENT/TRANSFER DEBIT;Car Maintentance Service;Auto & Transport;-$560.28;$324,207.00;Recurring
+32079;02/05/2018;PAYMENT/TRANSFER DEBIT;Galaxy Express Plutonium Card;Fees & Charges;-$5,421.06;$318,785.94;Recurring
+101536;02/05/2018;Direct Deposit;Dance of Mole Men - The Album;Royalties;$4,203.74;$322,989.68;Recurring
+32086;02/06/2018;ATM WITHDRAWAL;Work Caffeteria ATM;Uncategorized;-$100.75;$322,888.93;Occaisional
+32081;02/06/2018;PAYMENT/TRANSFER DEBIT;Electric & Gas;Utilities;-$1,307.91;$321,581.02;Recurring
+32083;02/07/2018;PAYMENT/TRANSFER DEBIT;Secret Lab Insurance ;Insurance ;-$338.01;$321,243.01;Recurring
+32082;02/07/2018;PAYMENT/TRANSFER DEBIT;Private Island Volcano Insurance;Insurance ;-$2,581.41;$318,661.60;Recurring
+101574;02/07/2018;BALANCE TRANSER ;Savings Account;Transfer;$17,500.00;$336,161.60;Recurring
+32088;02/08/2018;DEBIT PURCHASE;Taco Shack;Food & Dining;-$138.53;$336,023.07;Occaisional
+32084;02/09/2018;DEBIT PURCHASE;Penthouse Rent/Timeshare;Housing;-$2,625.13;$333,397.94;Recurring
+32098;02/12/2018;DEBIT PURCHASE;The Varsity Downtown;Food & Dining;-$19.42;$333,378.52;Occaisional
+32085;02/12/2018;PAYMENT/TRANSFER DEBIT;Personal Accountant;Fees & Charges;-$1,634.06;$331,744.46;Recurring
+32077;02/12/2018;DEBIT PURCHASE;Clifton’s Cafeteria;Food & Dining;-$172.40;$331,572.06;Occaisional
+32074;02/12/2018;DEBIT PURCHASE;Robby The Robot ;Shopping;-$5,080.40;$326,491.66;Occaisional
+32087;02/13/2018;DEBIT PURCHASE;NetPix On Demand Video;Entertainment;-$0.81;$326,490.85;Occaisional
+32089;02/14/2018;PAYMENT/TRANSFER DEBIT;Emergency Medical Wing Standby;Health & Fitness;-$1,625.00;$324,865.85;Recurring
+32090;02/15/2018;DEBIT PURCHASE;Personal Satellite Network ;Utilities;-$7,506.59;$317,359.26;Recurring
+32075;02/15/2018;DEBIT PURCHASE;Pet Peek Fence Windows;Pets;-$1,625.53;$315,733.73;Occaisional
+32091;02/16/2018;DEBIT PURCHASE;Beach Rental;Entertainment;-$3,916.65;$311,817.08;Occaisional
+101602;02/16/2018;BALANCE TRANSER ;Money Market;Transfer;$12,500.00;$324,317.08;Recurring
+32105;02/19/2018;DEBIT PURCHASE;Annual Cyber Diagnostic Checkup;Health & Fitness;-$1,425.91;$322,891.17;Occaisional
+32095;02/21/2018;PAYMENT/TRANSFER DEBIT;Life and Clone Term Insurance ;Insurance ;-$224.58;$322,666.59;Recurring
+32094;02/21/2018;DEBIT PURCHASE;Spacesuit Dry Cleaning;Clothing & Personal ;-$401.31;$322,265.28;Occaisional
+32096;02/22/2018;PAYMENT/TRANSFER DEBIT;Personal Trainer / Body Guard;Health & Fitness;-$3,091.49;$319,173.79;Recurring
+32097;02/23/2018;PAYMENT/TRANSFER DEBIT;Personal Stylist (part time) ;Clothing & Personal ;-$1,340.33;$317,833.46;Recurring
+32100;02/24/2018;PAYMENT/TRANSFER DEBIT;Personal Chef/Nutritionist;Food & Dining;-$2,164.87;$315,668.59;Recurring
+32099;02/24/2018;PAYMENT/TRANSFER DEBIT;Personal Concierge;Entertainment;-$626.75;$315,041.84;Recurring
+32102;02/25/2018;PAYMENT/TRANSFER DEBIT;Clone maintenance / Health Insurance;Insurance ;-$576.30;$314,465.54;Recurring
+32101;02/25/2018;PAYMENT/TRANSFER DEBIT;AI Machine Learning Loans;Loans;-$3,507.56;$310,957.98;Recurring
+32104;02/26/2018;PAYMENT/TRANSFER DEBIT;Personal Lawyer;Fees & Charges;-$641.59;$310,316.39;Recurring
+32107;03/01/2018;PAYMENT/TRANSFER DEBIT;Private Island Mortgage;Housing;-$25,753.84;$284,562.55;Recurring
+32106;03/01/2018;PAYMENT/TRANSFER DEBIT;Secret Lab Mortage;Housing;-$7,564.10;$276,998.45;Recurring
+32127;03/02/2018;DEBIT PURCHASE;Forbes Island;Food & Dining;-$801.67;$276,196.78;Occaisional
+32108;03/02/2018;PAYMENT/TRANSFER DEBIT;Emergency Shuttle Standby;Auto & Transport;-$2,789.47;$273,407.31;Recurring
+32111;03/03/2018;PAYMENT/TRANSFER DEBIT;Universal Subway Pass;Auto & Transport;-$638.07;$272,769.24;Recurring
+32113;03/04/2018;PAYMENT/TRANSFER DEBIT;Turbo Yacht - Mooring Fees;Auto & Transport;-$6,340.72;$266,428.52;Recurring
+32115;03/05/2018;PAYMENT/TRANSFER DEBIT;Car Maintentance Service;Auto & Transport;-$560.28;$265,868.24;Recurring
+32114;03/05/2018;PAYMENT/TRANSFER DEBIT;Galaxy Express Plutonium Card;Fees & Charges;-$14,206.34;$251,661.90;Recurring
+101537;03/05/2018;Direct Deposit;Dance of Mole Men - The Album;Royalties;$4,481.23;$256,143.13;Recurring
+32116;03/06/2018;PAYMENT/TRANSFER DEBIT;Electric & Gas;Utilities;-$1,307.91;$254,835.22;Recurring
+32118;03/07/2018;PAYMENT/TRANSFER DEBIT;Secret Lab Insurance ;Insurance ;-$338.01;$254,497.21;Recurring
+32117;03/07/2018;PAYMENT/TRANSFER DEBIT;Private Island Volcano Insurance;Insurance ;-$2,581.41;$251,915.80;Recurring
+101575;03/07/2018;BALANCE TRANSER ;Savings Account;Transfer;$17,500.00;$269,415.80;Recurring
+32119;03/09/2018;DEBIT PURCHASE;Penthouse Rent/Timeshare;Housing;-$2,625.13;$266,790.67;Recurring
+32137;03/10/2018;DEBIT PURCHASE;Black Panther , Private Show;Entertainment;-$881.56;$265,909.11;Occaisional
+32132;03/11/2018;DEBIT PURCHASE;Perlan;Food & Dining;-$21.41;$265,887.70;Occaisional
+32121;03/11/2018;ATM WITHDRAWAL;Work Caffeteria ATM;Uncategorized;-$100.75;$265,786.95;Occaisional
+32120;03/12/2018;PAYMENT/TRANSFER DEBIT;Personal Accountant;Fees & Charges;-$1,634.06;$264,152.89;Recurring
+32122;03/13/2018;DEBIT PURCHASE;NetPix On Demand Video;Entertainment;-$0.81;$264,152.08;Occaisional
+32110;03/13/2018;DEBIT PURCHASE;Burger Pillows;Pets;-$21.28;$264,130.80;Occaisional
+32124;03/14/2018;PAYMENT/TRANSFER DEBIT;Emergency Medical Wing Standby;Health & Fitness;-$1,625.00;$262,505.80;Recurring
+32109;03/14/2018;DEBIT PURCHASE;Bat Golf Cart;Shopping;-$5,764.20;$256,741.60;Occaisional
+32125;03/15/2018;DEBIT PURCHASE;Personal Satellite Network ;Utilities;-$7,506.59;$249,235.01;Recurring
+101603;03/16/2018;BALANCE TRANSER ;Money Market;Transfer;$12,500.00;$261,735.01;Recurring
+32112;03/17/2018;DEBIT PURCHASE;Amangani;Food & Dining;-$246.44;$261,488.57;Occaisional
+32129;03/21/2018;PAYMENT/TRANSFER DEBIT;Life and Clone Term Insurance ;Insurance ;-$224.58;$261,263.99;Recurring
+32128;03/21/2018;DEBIT PURCHASE;Personalized Bathtub;Clothing & Personal ;-$2,058.25;$259,205.74;Occaisional
+32130;03/22/2018;PAYMENT/TRANSFER DEBIT;Personal Trainer / Body Guard;Health & Fitness;-$3,091.49;$256,114.25;Recurring
+32131;03/23/2018;PAYMENT/TRANSFER DEBIT;Personal Stylist (part time) ;Clothing & Personal ;-$1,340.33;$254,773.92;Recurring
+32139;03/24/2018;DEBIT PURCHASE;Thighmaster Marathon;Health & Fitness;-$801.31;$253,972.61;Occaisional
+32134;03/24/2018;PAYMENT/TRANSFER DEBIT;Personal Chef/Nutritionist;Food & Dining;-$2,164.87;$251,807.74;Recurring
+32133;03/24/2018;PAYMENT/TRANSFER DEBIT;Personal Concierge;Entertainment;-$626.75;$251,180.99;Recurring
+32123;03/24/2018;DEBIT PURCHASE;Taco Shack;Food & Dining;-$88.72;$251,092.27;Occaisional
+32136;03/25/2018;PAYMENT/TRANSFER DEBIT;Clone maintenance / Health Insurance;Insurance ;-$576.30;$250,515.97;Recurring
+32135;03/25/2018;PAYMENT/TRANSFER DEBIT;AI Machine Learning Loans;Loans;-$3,507.56;$247,008.41;Recurring
+32138;03/26/2018;PAYMENT/TRANSFER DEBIT;Personal Lawyer;Fees & Charges;-$641.59;$246,366.82;Recurring
+32140;03/31/2018;ATM WITHDRAWAL;7-11 ATM;Uncategorized;-$100.63;$246,266.19;Occaisional
+32142;04/01/2018;PAYMENT/TRANSFER DEBIT;Private Island Mortgage;Housing;-$25,753.84;$220,512.35;Recurring
+32141;04/01/2018;PAYMENT/TRANSFER DEBIT;Secret Lab Mortage;Housing;-$7,564.10;$212,948.25;Recurring
+32143;04/02/2018;PAYMENT/TRANSFER DEBIT;Emergency Shuttle Standby;Auto & Transport;-$2,789.47;$210,158.78;Recurring
+32144;04/03/2018;PAYMENT/TRANSFER DEBIT;Universal Subway Pass;Auto & Transport;-$638.07;$209,520.71;Recurring
+32148;04/04/2018;PAYMENT/TRANSFER DEBIT;Turbo Yacht - Mooring Fees;Auto & Transport;-$6,340.72;$203,179.99;Recurring
+32150;04/05/2018;PAYMENT/TRANSFER DEBIT;Car Maintentance Service;Auto & Transport;-$560.28;$202,619.71;Recurring
+32149;04/05/2018;PAYMENT/TRANSFER DEBIT;Galaxy Express Plutonium Card;Fees & Charges;-$1,681.34;$200,938.37;Recurring
+101538;04/05/2018;Direct Deposit;Dance of Mole Men - The Album;Royalties;$7,558.92;$208,497.29;Recurring
+32151;04/06/2018;PAYMENT/TRANSFER DEBIT;Electric & Gas;Utilities;-$1,307.91;$207,189.38;Recurring
+32153;04/07/2018;PAYMENT/TRANSFER DEBIT;Secret Lab Insurance ;Insurance ;-$338.01;$206,851.37;Recurring
+32152;04/07/2018;PAYMENT/TRANSFER DEBIT;Private Island Volcano Insurance;Insurance ;-$2,581.41;$204,269.96;Recurring
+32146;04/07/2018;DEBIT PURCHASE;Dog House Sofa;Pets;-$3,238.33;$201,031.63;Occaisional
+101576;04/07/2018;BALANCE TRANSER ;Savings Account;Transfer;$17,500.00;$218,531.63;Recurring
+32154;04/09/2018;DEBIT PURCHASE;Penthouse Rent/Timeshare;Housing;-$2,625.13;$215,906.50;Recurring
+32172;04/10/2018;DEBIT PURCHASE;Maroon 5, Private Show;Entertainment;-$6,251.59;$209,654.91;Occaisional
+32162;04/11/2018;DEBIT PURCHASE;Devil Island Prison Restaurant ;Food & Dining;-$474.20;$209,180.71;Occaisional
+32158;04/11/2018;DEBIT PURCHASE;Taco Shack;Food & Dining;-$4.99;$209,175.72;Occaisional
+32155;04/12/2018;PAYMENT/TRANSFER DEBIT;Personal Accountant;Fees & Charges;-$1,634.06;$207,541.66;Recurring
+32157;04/13/2018;DEBIT PURCHASE;NetPix On Demand Video;Entertainment;-$0.81;$207,540.85;Occaisional
+32159;04/14/2018;PAYMENT/TRANSFER DEBIT;Emergency Medical Wing Standby;Health & Fitness;-$1,625.00;$205,915.85;Recurring
+32167;04/15/2018;DEBIT PURCHASE;The Bubble Room;Food & Dining;-$224.28;$205,691.57;Occaisional
+32160;04/15/2018;DEBIT PURCHASE;Personal Satellite Network ;Utilities;-$7,506.59;$198,184.98;Recurring
+101556;04/15/2018;DIRECT DEPOSIT;Trust Fund Stock;Dividends;$208,853.00;$407,037.98;Recurring
+32161;04/16/2018;DEBIT PURCHASE;Hoverboard Rental;Entertainment;-$208.53;$406,829.45;Occaisional
+101604;04/16/2018;BALANCE TRANSER ;Money Market;Transfer;$12,500.00;$419,329.45;Recurring
+32175;04/19/2018;ATM WITHDRAWAL;7-11 ATM;Uncategorized;-$100.63;$419,228.82;Occaisional
+32164;04/21/2018;PAYMENT/TRANSFER DEBIT;Life and Clone Term Insurance ;Insurance ;-$224.58;$419,004.24;Recurring
+32163;04/21/2018;DEBIT PURCHASE;Closet Humidifier;Clothing & Personal ;-$646.91;$418,357.33;Occaisional
+32147;04/21/2018;DEBIT PURCHASE;Mars 2112;Food & Dining;-$81.47;$418,275.86;Occaisional
+32165;04/22/2018;PAYMENT/TRANSFER DEBIT;Personal Trainer / Body Guard;Health & Fitness;-$3,091.49;$415,184.37;Recurring
+32174;04/23/2018;DEBIT PURCHASE;Sauna Suit;Health & Fitness;-$4,997.00;$410,187.37;Occaisional
+32166;04/23/2018;PAYMENT/TRANSFER DEBIT;Personal Stylist (part time) ;Clothing & Personal ;-$1,340.33;$408,847.04;Recurring
+32169;04/24/2018;PAYMENT/TRANSFER DEBIT;Personal Chef/Nutritionist;Food & Dining;-$2,164.87;$406,682.17;Recurring
+32168;04/24/2018;PAYMENT/TRANSFER DEBIT;Personal Concierge;Entertainment;-$626.75;$406,055.42;Recurring
+32171;04/25/2018;PAYMENT/TRANSFER DEBIT;Clone maintenance / Health Insurance;Insurance ;-$576.30;$405,479.12;Recurring
+32170;04/25/2018;PAYMENT/TRANSFER DEBIT;AI Machine Learning Loans;Loans;-$3,507.56;$401,971.56;Recurring
+32173;04/26/2018;PAYMENT/TRANSFER DEBIT;Personal Lawyer;Fees & Charges;-$741.59;$401,229.97;Recurring
+32156;04/27/2018;ATM WITHDRAWAL;Work Caffeteria ATM;Uncategorized;-$100.75;$401,129.22;Occaisional
+32145;04/27/2018;DEBIT PURCHASE;Ecosse Titanium Series FE Ti XX Motorcycle ;Auto & Transport;-$70,000.41;$331,128.81;Occaisional
+32177;05/01/2018;PAYMENT/TRANSFER DEBIT;Private Island Mortgage;Housing;-$25,753.84;$305,374.97;Recurring
+32176;05/01/2018;PAYMENT/TRANSFER DEBIT;Secret Lab Mortage;Housing;-$7,564.10;$297,810.87;Recurring
+32178;05/02/2018;PAYMENT/TRANSFER DEBIT;Emergency Shuttle Standby;Auto & Transport;-$2,789.47;$295,021.40;Recurring
+32197;05/03/2018;DEBIT PURCHASE;The Disaster Cafe;Food & Dining;-$89.25;$294,932.15;Occaisional
+32182;05/03/2018;DEBIT PURCHASE;Gold-Threaded Pet Mattress;Pets;-$323.31;$294,608.84;Occaisional
+32179;05/03/2018;PAYMENT/TRANSFER DEBIT;Universal Subway Pass;Auto & Transport;-$638.07;$293,970.77;Recurring
+32180;05/04/2018;PAYMENT/TRANSFER DEBIT;Turbo Yacht - Mooring Fees;Auto & Transport;-$6,340.72;$287,630.05;Recurring
+32185;05/05/2018;PAYMENT/TRANSFER DEBIT;Car Maintentance Service;Auto & Transport;-$560.28;$287,069.77;Recurring
+32184;05/05/2018;PAYMENT/TRANSFER DEBIT;Galaxy Express Plutonium Card;Fees & Charges;-$4,179.80;$282,889.97;Recurring
+101539;05/05/2018;Direct Deposit;Dance of Mole Men - The Album;Royalties;$8,081.44;$290,971.41;Recurring
+32186;05/06/2018;PAYMENT/TRANSFER DEBIT;Electric & Gas;Utilities;-$1,307.91;$289,663.50;Recurring
+32188;05/07/2018;PAYMENT/TRANSFER DEBIT;Secret Lab Insurance ;Insurance ;-$338.01;$289,325.49;Recurring
+32187;05/07/2018;PAYMENT/TRANSFER DEBIT;Private Island Volcano Insurance;Insurance ;-$2,581.41;$286,744.08;Recurring
+101577;05/07/2018;BALANCE TRANSER ;Savings Account;Transfer;$17,500.00;$304,244.08;Recurring
+32210;05/08/2018;ATM WITHDRAWAL;7-11 ATM;Uncategorized;-$100.63;$304,143.45;Occaisional
+32189;05/09/2018;DEBIT PURCHASE;Penthouse Rent/Timeshare;Housing;-$2,625.13;$301,518.32;Recurring
+32190;05/12/2018;PAYMENT/TRANSFER DEBIT;Personal Accountant;Fees & Charges;-$1,634.06;$299,884.26;Recurring
+32192;05/13/2018;DEBIT PURCHASE;NetPix On Demand Video;Entertainment;-$0.81;$299,883.45;Occaisional
+32194;05/14/2018;PAYMENT/TRANSFER DEBIT;Emergency Medical Wing Standby;Health & Fitness;-$1,625.00;$298,258.45;Recurring
+32202;05/15/2018;DEBIT PURCHASE;The Heart Attack Grill;Food & Dining;-$16.45;$298,242.00;Occaisional
+32195;05/15/2018;DEBIT PURCHASE;Personal Satellite Network ;Utilities;-$7,506.59;$290,735.41;Recurring
+32196;05/16/2018;DEBIT PURCHASE;Self Driving Bike Rental;Entertainment;-$255.97;$290,479.44;Occaisional
+32191;05/16/2018;ATM WITHDRAWAL;Work Caffeteria ATM;Uncategorized;-$100.75;$290,378.69;Occaisional
+101605;05/16/2018;BALANCE TRANSER ;Money Market;Transfer;$12,500.00;$302,878.69;Recurring
+32199;05/21/2018;PAYMENT/TRANSFER DEBIT;Life and Clone Term Insurance ;Insurance ;-$224.58;$302,654.11;Recurring
+32198;05/21/2018;DEBIT PURCHASE;Tibetan Pajamas;Clothing & Personal ;-$163.22;$302,490.89;Occaisional
+32193;05/21/2018;DEBIT PURCHASE;Taco Shack;Food & Dining;-$11.39;$302,479.50;Occaisional
+32181;05/21/2018;DEBIT PURCHASE;Harry Winston Opus 12 Watch;Shopping;-$6,505.83;$295,973.67;Occaisional
+32200;05/22/2018;PAYMENT/TRANSFER DEBIT;Personal Trainer / Body Guard;Health & Fitness;-$3,091.49;$292,882.18;Recurring
+32201;05/23/2018;PAYMENT/TRANSFER DEBIT;Personal Stylist (part time) ;Clothing & Personal ;-$1,340.33;$291,541.85;Recurring
+32204;05/24/2018;PAYMENT/TRANSFER DEBIT;Personal Chef/Nutritionist;Food & Dining;-$2,164.87;$289,376.98;Recurring
+32203;05/24/2018;PAYMENT/TRANSFER DEBIT;Personal Concierge;Entertainment;-$626.75;$288,750.23;Recurring
+32206;05/25/2018;PAYMENT/TRANSFER DEBIT;Clone maintenance / Health Insurance;Insurance ;-$576.30;$288,173.93;Recurring
+32205;05/25/2018;PAYMENT/TRANSFER DEBIT;AI Machine Learning Loans;Loans;-$3,507.56;$284,666.37;Recurring
+32208;05/26/2018;PAYMENT/TRANSFER DEBIT;Personal Lawyer;Fees & Charges;-$741.59;$283,924.78;Recurring
+32212;06/01/2018;PAYMENT/TRANSFER DEBIT;Private Island Mortgage;Housing;-$25,753.84;$258,170.94;Recurring
+32211;06/01/2018;PAYMENT/TRANSFER DEBIT;Secret Lab Mortage;Housing;-$7,564.10;$250,606.84;Recurring
+32245;06/02/2018;ATM WITHDRAWAL;7-11 ATM;Uncategorized;-$100.63;$250,506.21;Occaisional
+32213;06/02/2018;PAYMENT/TRANSFER DEBIT;Emergency Shuttle Standby;Auto & Transport;-$2,789.47;$247,716.74;Recurring
+32214;06/03/2018;PAYMENT/TRANSFER DEBIT;Universal Subway Pass;Auto & Transport;-$638.07;$247,078.67;Recurring
+32215;06/04/2018;PAYMENT/TRANSFER DEBIT;Turbo Yacht - Mooring Fees;Auto & Transport;-$6,340.72;$240,737.95;Recurring
+32219;06/05/2018;PAYMENT/TRANSFER DEBIT;Car Maintentance Service;Auto & Transport;-$560.28;$240,177.67;Recurring
+32218;06/05/2018;PAYMENT/TRANSFER DEBIT;Galaxy Express Plutonium Card;Fees & Charges;-$4,572.71;$235,604.96;Recurring
+101540;06/05/2018;Direct Deposit;Dance of Mole Men - The Album;Royalties;$8,603.96;$244,208.92;Recurring
+32232;06/06/2018;DEBIT PURCHASE;Norma’s;Food & Dining;-$105.95;$244,102.97;Occaisional
+32221;06/06/2018;PAYMENT/TRANSFER DEBIT;Electric & Gas;Utilities;-$1,307.91;$242,795.06;Recurring
+32223;06/07/2018;PAYMENT/TRANSFER DEBIT;Secret Lab Insurance ;Insurance ;-$338.01;$242,457.05;Recurring
+32222;06/07/2018;PAYMENT/TRANSFER DEBIT;Private Island Volcano Insurance;Insurance ;-$2,581.41;$239,875.64;Recurring
+101578;06/07/2018;BALANCE TRANSER ;Savings Account;Transfer;$17,500.00;$257,375.64;Recurring
+32224;06/09/2018;DEBIT PURCHASE;Penthouse Rent/Timeshare;Housing;-$2,625.13;$254,750.51;Recurring
+32217;06/10/2018;DEBIT PURCHASE;Guy Savoy, Paris (Groupon) ;Food & Dining;-$3,496.81;$251,253.70;Occaisional
+32226;06/11/2018;ATM WITHDRAWAL;Work Caffeteria ATM;Uncategorized;-$100.75;$251,152.95;Occaisional
+32225;06/12/2018;PAYMENT/TRANSFER DEBIT;Personal Accountant;Fees & Charges;-$1,634.06;$249,518.89;Recurring
+32220;06/12/2018;DEBIT PURCHASE;Dog Sparkling Water - 30 Cases;Pets;-$100.00;$249,418.89;Occaisional
+32227;06/13/2018;DEBIT PURCHASE;NetPix On Demand Video;Entertainment;-$0.81;$249,418.08;Occaisional
+32229;06/14/2018;PAYMENT/TRANSFER DEBIT;Emergency Medical Wing Standby;Health & Fitness;-$1,625.00;$247,793.08;Recurring
+32230;06/15/2018;DEBIT PURCHASE;Personal Satellite Network ;Utilities;-$7,506.59;$240,286.49;Recurring
+32242;06/16/2018;DEBIT PURCHASE;Mean Girls.;Entertainment;-$245.56;$240,040.93;Occaisional
+32231;06/16/2018;DEBIT PURCHASE;Underwater World Cruise;Entertainment;-$12,697.14;$227,343.79;Occaisional
+101606;06/16/2018;BALANCE TRANSER ;Money Market;Transfer;$12,500.00;$239,843.79;Recurring
+32244;06/18/2018;DEBIT PURCHASE;Zero Gravity Yoga Training;Health & Fitness;-$3,755.08;$236,088.71;Occaisional
+32234;06/21/2018;PAYMENT/TRANSFER DEBIT;Life and Clone Term Insurance ;Insurance ;-$224.58;$235,864.13;Recurring
+32233;06/21/2018;DEBIT PURCHASE;Dry Wetsuite;Clothing & Personal ;-$2,238.11;$233,626.02;Occaisional
+32235;06/22/2018;PAYMENT/TRANSFER DEBIT;Personal Trainer / Body Guard;Health & Fitness;-$3,091.49;$230,534.53;Recurring
+32236;06/23/2018;PAYMENT/TRANSFER DEBIT;Personal Stylist (part time) ;Clothing & Personal ;-$1,340.33;$229,194.20;Recurring
+32239;06/24/2018;PAYMENT/TRANSFER DEBIT;Personal Chef/Nutritionist;Food & Dining;-$2,164.87;$227,029.33;Recurring
+32238;06/24/2018;PAYMENT/TRANSFER DEBIT;Personal Concierge;Entertainment;-$626.75;$226,402.58;Recurring
+32241;06/25/2018;PAYMENT/TRANSFER DEBIT;Clone maintenance / Health Insurance;Insurance ;-$576.30;$225,826.28;Recurring
+32240;06/25/2018;PAYMENT/TRANSFER DEBIT;AI Machine Learning Loans;Loans;-$3,507.56;$222,318.72;Recurring
+32243;06/26/2018;PAYMENT/TRANSFER DEBIT;Personal Lawyer;Fees & Charges;-$741.59;$221,577.13;Recurring
+32237;06/27/2018;DEBIT PURCHASE;Masa;Food & Dining;-$814.08;$220,763.05;Occaisional
+32247;07/01/2018;PAYMENT/TRANSFER DEBIT;Private Island Mortgage;Housing;-$25,753.84;$195,009.21;Recurring
+32246;07/01/2018;PAYMENT/TRANSFER DEBIT;Secret Lab Mortage;Housing;-$7,564.10;$187,445.11;Recurring
+32248;07/02/2018;PAYMENT/TRANSFER DEBIT;Emergency Shuttle Standby;Auto & Transport;-$2,789.47;$184,655.64;Recurring
+32249;07/03/2018;PAYMENT/TRANSFER DEBIT;Universal Subway Pass;Auto & Transport;-$638.07;$184,017.57;Recurring
+32250;07/04/2018;PAYMENT/TRANSFER DEBIT;Turbo Yacht - Mooring Fees;Auto & Transport;-$6,340.72;$177,676.85;Recurring
+32254;07/05/2018;PAYMENT/TRANSFER DEBIT;Car Maintentance Service;Auto & Transport;-$560.28;$177,116.57;Recurring
+32253;07/05/2018;PAYMENT/TRANSFER DEBIT;Galaxy Express Plutonium Card;Fees & Charges;-$2,256.42;$174,860.15;Recurring
+32251;07/05/2018;DEBIT PURCHASE;Victorinox 1TB Swiss Army Knife;Shopping;-$775.56;$174,084.59;Occaisional
+101541;07/05/2018;Direct Deposit;Dance of Mole Men - The Album;Royalties;$9,126.48;$183,211.07;Recurring
+32256;07/06/2018;PAYMENT/TRANSFER DEBIT;Electric & Gas;Utilities;-$788.06;$182,423.01;Recurring
+32258;07/07/2018;PAYMENT/TRANSFER DEBIT;Secret Lab Insurance ;Insurance ;-$338.01;$182,085.00;Recurring
+32257;07/07/2018;PAYMENT/TRANSFER DEBIT;Private Island Volcano Insurance;Insurance ;-$2,581.41;$179,503.59;Recurring
+101579;07/07/2018;BALANCE TRANSER ;Savings Account;Transfer;$17,500.00;$197,003.59;Recurring
+32252;07/08/2018;DEBIT PURCHASE;Bubba Gump Shrimp Co.;Food & Dining;-$284.67;$196,718.92;Occaisional
+32259;07/09/2018;DEBIT PURCHASE;Penthouse Rent/Timeshare;Housing;-$2,625.13;$194,093.79;Recurring
+5102;07/09/2018;BALANCE TRANSER ;Emergency Account;Transfer;$12,500.00;$206,593.79;Occaisional
+32272;07/10/2018;DEBIT PURCHASE;Oasis Cafe;Food & Dining;-$246.91;$206,346.88;Occaisional
+32267;07/11/2018;DEBIT PURCHASE;Sur un Arbre Perche;Food & Dining;-$339.22;$206,007.66;Occaisional
+32260;07/12/2018;PAYMENT/TRANSFER DEBIT;Personal Accountant;Fees & Charges;-$1,634.06;$204,373.60;Recurring
+32262;07/13/2018;DEBIT PURCHASE;NetPix On Demand Video;Entertainment;-$0.81;$204,372.79;Occaisional
+32264;07/14/2018;PAYMENT/TRANSFER DEBIT;Emergency Medical Wing Standby;Health & Fitness;-$1,625.00;$202,747.79;Recurring
+32265;07/15/2018;DEBIT PURCHASE;Personal Satellite Network ;Utilities;-$6,256.59;$196,491.20;Recurring
+101557;07/15/2018;DIRECT DEPOSIT;Trust Fund Stock;Dividends;$183,395.57;$379,886.77;Recurring
+32266;07/16/2018;DEBIT PURCHASE;Flame thrower lessons;Entertainment;-$224.83;$379,661.94;Occaisional
+101607;07/16/2018;BALANCE TRANSER ;Money Market;Transfer;$12,500.00;$392,161.94;Recurring
+32279;07/20/2018;DEBIT PURCHASE;3d Facial Treatment;Health & Fitness;-$4,589.16;$387,572.78;Occaisional
+32269;07/21/2018;PAYMENT/TRANSFER DEBIT;Life and Clone Term Insurance ;Insurance ;-$224.58;$387,348.20;Recurring
+32268;07/21/2018;DEBIT PURCHASE;Kentuck Derby Hat;Clothing & Personal ;-$159.30;$387,188.90;Occaisional
+32270;07/22/2018;PAYMENT/TRANSFER DEBIT;Personal Trainer / Body Guard;Health & Fitness;-$3,091.49;$384,097.41;Recurring
+32271;07/23/2018;PAYMENT/TRANSFER DEBIT;Personal Stylist (part time) ;Clothing & Personal ;-$1,340.33;$382,757.08;Recurring
+5103;07/23/2018;PAYMENT/TRANSFER DEBIT;Overdraft Charge;Fees & Charges;-$2,500.00;$380,257.08;Occaisional
+32274;07/24/2018;PAYMENT/TRANSFER DEBIT;Personal Chef/Nutritionist;Food & Dining;-$2,164.87;$378,092.21;Recurring
+32273;07/24/2018;PAYMENT/TRANSFER DEBIT;Personal Concierge;Entertainment;-$626.75;$377,465.46;Recurring
+32255;07/24/2018;DEBIT PURCHASE;Dog Snuggies;Pets;-$50.01;$377,415.45;Occaisional
+32276;07/25/2018;PAYMENT/TRANSFER DEBIT;Clone maintenance / Health Insurance;Insurance ;-$576.30;$376,839.15;Recurring
+32275;07/25/2018;PAYMENT/TRANSFER DEBIT;AI Machine Learning Loans;Loans;-$3,507.56;$373,331.59;Recurring
+32278;07/26/2018;PAYMENT/TRANSFER DEBIT;Personal Lawyer;Fees & Charges;-$741.59;$372,590.00;Recurring
+32280;07/27/2018;ATM WITHDRAWAL;7-11 ATM;Uncategorized;-$100.63;$372,489.37;Occaisional
+32263;07/27/2018;DEBIT PURCHASE;Taco Shack;Food & Dining;-$3.09;$372,486.28;Occaisional
+32277;07/28/2018;DEBIT PURCHASE;My Fair Lady;Entertainment;-$6,251.59;$366,234.69;Occaisional
+32261;07/28/2018;ATM WITHDRAWAL;Work Caffeteria ATM;Uncategorized;-$100.75;$366,133.94;Occaisional
+32286;08/01/2018;DEBIT PURCHASE;Boxx Suitcase Scooter;Shopping;-$1,080.31;$365,053.63;Occaisional
+32282;08/01/2018;PAYMENT/TRANSFER DEBIT;Private Island Mortgage;Housing;-$25,753.84;$339,299.79;Recurring
+32281;08/01/2018;PAYMENT/TRANSFER DEBIT;Secret Lab Mortage;Housing;-$7,564.10;$331,735.69;Recurring
+32283;08/02/2018;PAYMENT/TRANSFER DEBIT;Emergency Shuttle Standby;Auto & Transport;-$2,789.47;$328,946.22;Recurring
+32284;08/03/2018;PAYMENT/TRANSFER DEBIT;Universal Subway Pass;Auto & Transport;-$638.07;$328,308.15;Recurring
+32285;08/04/2018;PAYMENT/TRANSFER DEBIT;Turbo Yacht - Mooring Fees;Auto & Transport;-$6,340.72;$321,967.43;Recurring
+32289;08/05/2018;PAYMENT/TRANSFER DEBIT;Car Maintentance Service;Auto & Transport;-$560.28;$321,407.15;Recurring
+32288;08/05/2018;PAYMENT/TRANSFER DEBIT;Galaxy Express Plutonium Card;Fees & Charges;-$3,218.96;$318,188.19;Recurring
+101542;08/05/2018;Direct Deposit;Dance of Mole Men - The Album;Royalties;$9,649.01;$327,837.20;Recurring
+32291;08/06/2018;PAYMENT/TRANSFER DEBIT;Electric & Gas;Utilities;-$788.06;$327,049.14;Recurring
+32293;08/07/2018;PAYMENT/TRANSFER DEBIT;Secret Lab Insurance ;Insurance ;-$338.01;$326,711.13;Recurring
+32292;08/07/2018;PAYMENT/TRANSFER DEBIT;Private Island Volcano Insurance;Insurance ;-$2,581.41;$324,129.72;Recurring
+101580;08/07/2018;BALANCE TRANSER ;Savings Account;Transfer;$17,500.00;$341,629.72;Recurring
+32294;08/09/2018;DEBIT PURCHASE;Penthouse Rent/Timeshare;Housing;-$2,625.13;$339,004.59;Recurring
+32290;08/09/2018;DEBIT PURCHASE;Puppy Tweets Twitter Account;Pets;-$90.25;$338,914.34;Occaisional
+32298;08/10/2018;DEBIT PURCHASE;Taco Shack;Food & Dining;-$75.71;$338,838.63;Occaisional
+32307;08/11/2018;DEBIT PURCHASE;Oasis Surf;Food & Dining;-$80.34;$338,758.29;Occaisional
+32295;08/12/2018;PAYMENT/TRANSFER DEBIT;Personal Accountant;Fees & Charges;-$1,634.06;$337,124.23;Recurring
+32297;08/13/2018;DEBIT PURCHASE;NetPix On Demand Video;Entertainment;-$0.81;$337,123.42;Occaisional
+32299;08/14/2018;PAYMENT/TRANSFER DEBIT;Emergency Medical Wing Standby;Health & Fitness;-$1,625.00;$335,498.42;Recurring
+32302;08/15/2018;DEBIT PURCHASE;El Diablo “The Devil”;Food & Dining;-$217.10;$335,281.32;Occaisional
+32300;08/15/2018;DEBIT PURCHASE;Personal Satellite Network ;Utilities;-$6,256.59;$329,024.73;Recurring
+32296;08/15/2018;ATM WITHDRAWAL;Work Caffeteria ATM;Uncategorized;-$100.75;$328,923.98;Occaisional
+32301;08/16/2018;DEBIT PURCHASE;Buggati Rental;Entertainment;-$1,558.69;$327,365.29;Occaisional
+101608;08/16/2018;BALANCE TRANSER ;Money Market;Transfer;$12,500.00;$339,865.29;Recurring
+32304;08/21/2018;PAYMENT/TRANSFER DEBIT;Life and Clone Term Insurance ;Insurance ;-$224.58;$339,640.71;Recurring
+32303;08/21/2018;DEBIT PURCHASE;Casual Tuxedo;Clothing & Personal ;-$6,255.91;$333,384.80;Occaisional
+32314;08/22/2018;DEBIT PURCHASE;30,000 mile blood replacement;Health & Fitness;-$15,089.21;$318,295.59;Occaisional
+32305;08/22/2018;PAYMENT/TRANSFER DEBIT;Personal Trainer / Body Guard;Health & Fitness;-$3,091.49;$315,204.10;Recurring
+32306;08/23/2018;PAYMENT/TRANSFER DEBIT;Personal Stylist (part time) ;Clothing & Personal ;-$1,340.33;$313,863.77;Recurring
+32287;08/23/2018;DEBIT PURCHASE;Guy Savoy, Paris (Groupon) ;Food & Dining;-$164.75;$313,699.02;Occaisional
+32309;08/24/2018;PAYMENT/TRANSFER DEBIT;Personal Chef/Nutritionist;Food & Dining;-$2,164.87;$311,534.15;Recurring
+32308;08/24/2018;PAYMENT/TRANSFER DEBIT;Personal Concierge;Entertainment;-$626.75;$310,907.40;Recurring
+32311;08/25/2018;PAYMENT/TRANSFER DEBIT;Clone maintenance / Health Insurance;Insurance ;-$576.30;$310,331.10;Recurring
+32310;08/25/2018;PAYMENT/TRANSFER DEBIT;AI Machine Learning Loans;Loans;-$3,507.56;$306,823.54;Recurring
+32313;08/26/2018;PAYMENT/TRANSFER DEBIT;Personal Lawyer;Fees & Charges;-$741.59;$306,081.95;Recurring
+32321;08/29/2018;DEBIT PURCHASE;Stax SR-009 Earspeakers;Shopping;-$1,258.22;$304,823.73;Occaisional
+32317;09/01/2018;PAYMENT/TRANSFER DEBIT;Private Island Mortgage;Housing;-$25,753.84;$279,069.89;Recurring
+32316;09/01/2018;PAYMENT/TRANSFER DEBIT;Secret Lab Mortage;Housing;-$7,564.10;$271,505.79;Recurring
+32315;09/01/2018;ATM WITHDRAWAL;7-11 ATM;Uncategorized;-$100.63;$271,405.16;Occaisional
+32318;09/02/2018;PAYMENT/TRANSFER DEBIT;Emergency Shuttle Standby;Auto & Transport;-$2,789.47;$268,615.69;Recurring
+32319;09/03/2018;PAYMENT/TRANSFER DEBIT;Universal Subway Pass;Auto & Transport;-$638.07;$267,977.62;Recurring
+32342;09/04/2018;DEBIT PURCHASE;The Pointe Restaurant;Food & Dining;-$164.75;$267,812.87;Occaisional
+32320;09/04/2018;PAYMENT/TRANSFER DEBIT;Turbo Yacht - Mooring Fees;Auto & Transport;-$6,340.72;$261,472.15;Recurring
+32349;09/05/2018;DEBIT PURCHASE;Radioactive Insect Bite Treatment;Health & Fitness;-$2,063.41;$259,408.74;Occaisional
+32324;09/05/2018;PAYMENT/TRANSFER DEBIT;Car Maintentance Service;Auto & Transport;-$560.28;$258,848.46;Recurring
+32323;09/05/2018;PAYMENT/TRANSFER DEBIT;Galaxy Express Plutonium Card;Fees & Charges;-$5,842.00;$253,006.46;Recurring
+101543;09/05/2018;Direct Deposit;Dance of Mole Men - The Album;Royalties;$10,171.53;$263,177.99;Recurring
+32326;09/06/2018;PAYMENT/TRANSFER DEBIT;Electric & Gas;Utilities;-$788.06;$262,389.93;Recurring
+32325;09/06/2018;DEBIT PURCHASE;Sexy Beast Dog Perfume;Pets;-$51.34;$262,338.59;Occaisional
+32328;09/07/2018;PAYMENT/TRANSFER DEBIT;Secret Lab Insurance ;Insurance ;-$338.01;$262,000.58;Recurring
+32327;09/07/2018;PAYMENT/TRANSFER DEBIT;Private Island Volcano Insurance;Insurance ;-$2,581.41;$259,419.17;Recurring
+101581;09/07/2018;BALANCE TRANSER ;Savings Account;Transfer;$17,500.00;$276,919.17;Recurring
+32329;09/09/2018;DEBIT PURCHASE;Penthouse Rent/Timeshare;Housing;-$2,625.13;$274,294.04;Recurring
+32330;09/12/2018;PAYMENT/TRANSFER DEBIT;Personal Accountant;Fees & Charges;-$1,634.06;$272,659.98;Recurring
+32332;09/13/2018;DEBIT PURCHASE;NetPix On Demand Video;Entertainment;-$0.81;$272,659.17;Occaisional
+32331;09/13/2018;ATM WITHDRAWAL;Work Caffeteria ATM;Uncategorized;-$100.75;$272,558.42;Occaisional
+32334;09/14/2018;PAYMENT/TRANSFER DEBIT;Emergency Medical Wing Standby;Health & Fitness;-$1,625.00;$270,933.42;Recurring
+32347;09/15/2018;DEBIT PURCHASE;One Direction, Private Show;Entertainment;-$6,251.59;$264,681.83;Occaisional
+32335;09/15/2018;DEBIT PURCHASE;Personal Satellite Network ;Utilities;-$6,256.59;$258,425.24;Recurring
+32336;09/16/2018;DEBIT PURCHASE;Italian Grand Prix Pit Pass;Entertainment;-$314.58;$258,110.66;Occaisional
+101609;09/16/2018;BALANCE TRANSER ;Money Market;Transfer;$12,500.00;$270,610.66;Recurring
+32337;09/18/2018;DEBIT PURCHASE;De Kas—Amsterdam;Food & Dining;-$230.58;$270,380.08;Occaisional
+32339;09/21/2018;PAYMENT/TRANSFER DEBIT;Life and Clone Term Insurance ;Insurance ;-$224.58;$270,155.50;Recurring
+32338;09/21/2018;DEBIT PURCHASE;Formal TShirts;Clothing & Personal ;-$191.25;$269,964.25;Occaisional
+32333;09/21/2018;DEBIT PURCHASE;Taco Shack;Food & Dining;-$67.59;$269,896.66;Occaisional
+32340;09/22/2018;PAYMENT/TRANSFER DEBIT;Personal Trainer / Body Guard;Health & Fitness;-$3,091.49;$266,805.17;Recurring
+32341;09/23/2018;PAYMENT/TRANSFER DEBIT;Personal Stylist (part time) ;Clothing & Personal ;-$1,340.33;$265,464.84;Recurring
+32344;09/24/2018;PAYMENT/TRANSFER DEBIT;Personal Chef/Nutritionist;Food & Dining;-$2,164.87;$263,299.97;Recurring
+32343;09/24/2018;PAYMENT/TRANSFER DEBIT;Personal Concierge;Entertainment;-$626.75;$262,673.22;Recurring
+32346;09/25/2018;PAYMENT/TRANSFER DEBIT;Clone maintenance / Health Insurance;Insurance ;-$576.30;$262,096.92;Recurring
+32345;09/25/2018;PAYMENT/TRANSFER DEBIT;AI Machine Learning Loans;Loans;-$3,507.56;$258,589.36;Recurring
+32348;09/26/2018;PAYMENT/TRANSFER DEBIT;Personal Lawyer;Fees & Charges;-$741.59;$257,847.77;Recurring
+32322;09/26/2018;DEBIT PURCHASE;Casa Bonita;Food & Dining;-$346.34;$257,501.43;Occaisional
+32350;09/29/2018;ATM WITHDRAWAL;7-11 ATM;Uncategorized;-$100.63;$257,400.80;Occaisional
+32352;10/01/2018;PAYMENT/TRANSFER DEBIT;Private Island Mortgage;Housing;-$25,753.84;$231,646.96;Recurring
+32351;10/01/2018;PAYMENT/TRANSFER DEBIT;Secret Lab Mortage;Housing;-$7,564.10;$224,082.86;Recurring
+32353;10/02/2018;PAYMENT/TRANSFER DEBIT;Emergency Shuttle Standby;Auto & Transport;-$2,789.47;$221,293.39;Recurring
+32360;10/03/2018;DEBIT PURCHASE;Bubbletastic Bacon Bubble Blower;Pets;-$32.08;$221,261.31;Occaisional
+32354;10/03/2018;PAYMENT/TRANSFER DEBIT;Universal Subway Pass;Auto & Transport;-$638.07;$220,623.24;Recurring
+32355;10/04/2018;PAYMENT/TRANSFER DEBIT;Turbo Yacht - Mooring Fees;Auto & Transport;-$6,340.72;$214,282.52;Recurring
+32359;10/05/2018;PAYMENT/TRANSFER DEBIT;Car Maintentance Service;Auto & Transport;-$560.28;$213,722.24;Recurring
+32358;10/05/2018;PAYMENT/TRANSFER DEBIT;Galaxy Express Plutonium Card;Fees & Charges;-$2,339.39;$211,382.85;Recurring
+101544;10/05/2018;Direct Deposit;Dance of Mole Men - The Album;Royalties;$10,694.05;$222,076.90;Recurring
+32361;10/06/2018;PAYMENT/TRANSFER DEBIT;Electric & Gas;Utilities;-$1,046.30;$221,030.60;Recurring
+32363;10/07/2018;PAYMENT/TRANSFER DEBIT;Secret Lab Insurance ;Insurance ;-$338.01;$220,692.59;Recurring
+32362;10/07/2018;PAYMENT/TRANSFER DEBIT;Private Island Volcano Insurance;Insurance ;-$2,581.41;$218,111.18;Recurring
+101582;10/07/2018;BALANCE TRANSER ;Savings Account;Transfer;$17,500.00;$235,611.18;Recurring
+32364;10/09/2018;DEBIT PURCHASE;Penthouse Rent/Timeshare;Housing;-$2,625.13;$232,986.05;Recurring
+32357;10/09/2018;DEBIT PURCHASE;Tommy Guns Garage;Food & Dining;-$106.42;$232,879.63;Occaisional
+32366;10/12/2018;ATM WITHDRAWAL;Work Caffeteria ATM;Uncategorized;-$100.75;$232,778.88;Occaisional
+32365;10/12/2018;PAYMENT/TRANSFER DEBIT;Personal Accountant;Fees & Charges;-$1,634.06;$231,144.82;Recurring
+32367;10/13/2018;DEBIT PURCHASE;NetPix On Demand Video;Entertainment;-$0.81;$231,144.01;Occaisional
+32369;10/14/2018;PAYMENT/TRANSFER DEBIT;Emergency Medical Wing Standby;Health & Fitness;-$1,625.00;$229,519.01;Recurring
+32382;10/15/2018;DEBIT PURCHASE;The Ferryman ;Entertainment;-$6,251.59;$223,267.42;Occaisional
+32370;10/15/2018;DEBIT PURCHASE;Personal Satellite Network ;Utilities;-$6,256.59;$217,010.83;Recurring
+101558;10/15/2018;DIRECT DEPOSIT;Trust Fund Stock;Dividends;$157,938.13;$374,948.96;Recurring
+32384;10/16/2018;DEBIT PURCHASE;Space Dog Walking;Health & Fitness;-$8,913.10;$366,035.86;Occaisional
+32371;10/16/2018;DEBIT PURCHASE;Singapore Submarine Rental;Entertainment;-$1,409.56;$364,626.30;Occaisional
+101610;10/16/2018;BALANCE TRANSER ;Money Market;Transfer;$12,500.00;$377,126.30;Recurring
+32377;10/18/2018;DEBIT PURCHASE;The Sweatshop;Food & Dining;-$463.65;$376,662.65;Occaisional
+32374;10/21/2018;PAYMENT/TRANSFER DEBIT;Life and Clone Term Insurance ;Insurance ;-$224.58;$376,438.07;Recurring
+32373;10/21/2018;DEBIT PURCHASE;Racing Socks Set;Clothing & Personal ;-$81.50;$376,356.57;Occaisional
+32375;10/22/2018;PAYMENT/TRANSFER DEBIT;Personal Trainer / Body Guard;Health & Fitness;-$3,091.49;$373,265.08;Recurring
+32376;10/23/2018;PAYMENT/TRANSFER DEBIT;Personal Stylist (part time) ;Clothing & Personal ;-$1,340.33;$371,924.75;Recurring
+32379;10/24/2018;PAYMENT/TRANSFER DEBIT;Personal Chef/Nutritionist;Food & Dining;-$2,164.87;$369,759.88;Recurring
+32378;10/24/2018;PAYMENT/TRANSFER DEBIT;Personal Concierge;Entertainment;-$626.75;$369,133.13;Recurring
+32381;10/25/2018;PAYMENT/TRANSFER DEBIT;Clone maintenance / Health Insurance;Insurance ;-$576.30;$368,556.83;Recurring
+32380;10/25/2018;PAYMENT/TRANSFER DEBIT;AI Machine Learning Loans;Loans;-$3,507.56;$365,049.27;Recurring
+32383;10/26/2018;PAYMENT/TRANSFER DEBIT;Personal Lawyer;Fees & Charges;-$741.59;$364,307.68;Recurring
+32368;10/26/2018;DEBIT PURCHASE;Taco Shack;Food & Dining;-$43.91;$364,263.77;Occaisional
+32387;11/01/2018;PAYMENT/TRANSFER DEBIT;Private Island Mortgage;Housing;-$25,753.84;$338,509.93;Recurring
+32386;11/01/2018;PAYMENT/TRANSFER DEBIT;Secret Lab Mortage;Housing;-$7,564.10;$330,945.83;Recurring
+32385;11/1/2018;ATM WITHDRAWAL;7-11 ATM;Uncategorized;-$100.63;$330,845.20;Occaisional
+32407;11/2/2018;DEBIT PURCHASE;Cat Café Nekorobi;Food & Dining;-$1,647.38;$329,197.82;Occaisional
+32388;11/02/2018;PAYMENT/TRANSFER DEBIT;Emergency Shuttle Standby;Auto & Transport;-$2,789.47;$326,408.35;Recurring
+32389;11/03/2018;PAYMENT/TRANSFER DEBIT;Universal Subway Pass;Auto & Transport;-$638.07;$325,770.28;Recurring
+32390;11/04/2018;PAYMENT/TRANSFER DEBIT;Turbo Yacht - Mooring Fees;Auto & Transport;-$6,340.72;$319,429.56;Recurring
+32394;11/05/2018;PAYMENT/TRANSFER DEBIT;Car Maintentance Service;Auto & Transport;-$560.28;$318,869.28;Recurring
+32393;11/05/2018;PAYMENT/TRANSFER DEBIT;Galaxy Express Plutonium Card;Fees & Charges;-$3,833.47;$315,035.81;Recurring
+101545;11/05/2018;Direct Deposit;Dance of Mole Men - The Album;Royalties;$9,130.34;$324,166.15;Recurring
+32396;11/06/2018;PAYMENT/TRANSFER DEBIT;Electric & Gas;Utilities;-$1,046.30;$323,119.85;Recurring
+32398;11/07/2018;PAYMENT/TRANSFER DEBIT;Secret Lab Insurance ;Insurance ;-$338.01;$322,781.84;Recurring
+32397;11/07/2018;PAYMENT/TRANSFER DEBIT;Private Island Volcano Insurance;Insurance ;-$2,581.41;$320,200.43;Recurring
+101583;11/07/2018;BALANCE TRANSER ;Savings Account;Transfer;$17,500.00;$337,700.43;Recurring
+32392;11/08/2018;DEBIT PURCHASE;Jekyll & Hyde Club;Food & Dining;-$189.59;$337,510.84;Occaisional
+32391;11/08/2018;DEBIT PURCHASE;Kohler Numi Toilet System;Shopping;-$1,800.58;$335,710.26;Occaisional
+32417;11/9/2018;DEBIT PURCHASE;Cats, Private Show;Entertainment;-$8,140.58;$327,569.68;Occaisional
+32399;11/09/2018;DEBIT PURCHASE;Penthouse Rent/Timeshare;Housing;-$2,625.13;$324,944.55;Recurring
+32400;11/12/2018;PAYMENT/TRANSFER DEBIT;Personal Accountant;Fees & Charges;-$2,590.72;$322,353.83;Recurring
+32420;11/13/2018;ATM WITHDRAWAL;7-11 ATM;Uncategorized;-$100.63;$322,253.20;Occaisional
+32412;11/13/2018;DEBIT PURCHASE;The Catacombs;Food & Dining;-$71.16;$322,182.04;Occaisional
+32402;11/13/2018;DEBIT PURCHASE;NetPix On Demand Video;Entertainment;-$0.81;$322,181.23;Occaisional
+32404;11/14/2018;PAYMENT/TRANSFER DEBIT;Emergency Medical Wing Standby;Health & Fitness;-$1,625.00;$320,556.23;Recurring
+32401;11/14/2018;ATM WITHDRAWAL;Work Caffeteria ATM;Uncategorized;-$100.75;$320,455.48;Occaisional
+32419;11/15/2018;DEBIT PURCHASE;Dance of the MoleMen lessons;Health & Fitness;-$801.39;$319,654.09;Occaisional
+32405;11/15/2018;DEBIT PURCHASE;Personal Satellite Network ;Utilities;-$6,256.59;$313,397.50;Recurring
+32406;11/16/2018;DEBIT PURCHASE;Blimp rental for Monaco Grand Prix;Entertainment;-$3,833.39;$309,564.11;Occaisional
+101611;11/16/2018;BALANCE TRANSER ;Money Market;Transfer;$12,500.00;$322,064.11;Recurring
+32409;11/21/2018;PAYMENT/TRANSFER DEBIT;Life and Clone Term Insurance ;Insurance ;-$224.58;$321,839.53;Recurring
+32408;11/21/2018;DEBIT PURCHASE;Designer Underwear;Clothing & Personal ;-$34.06;$321,805.47;Occaisional
+32410;11/22/2018;PAYMENT/TRANSFER DEBIT;Personal Trainer / Body Guard;Health & Fitness;-$3,091.49;$318,713.98;Recurring
+32411;11/23/2018;PAYMENT/TRANSFER DEBIT;Personal Stylist (part time) ;Clothing & Personal ;-$1,340.33;$317,373.65;Recurring
+32403;11/23/2018;DEBIT PURCHASE;Taco Shack;Food & Dining;-$16.45;$317,357.20;Occaisional
+32414;11/24/2018;PAYMENT/TRANSFER DEBIT;Personal Chef/Nutritionist;Food & Dining;-$2,164.87;$315,192.33;Recurring
+32413;11/24/2018;PAYMENT/TRANSFER DEBIT;Personal Concierge;Entertainment;-$626.75;$314,565.58;Recurring
+32416;11/25/2018;PAYMENT/TRANSFER DEBIT;Clone maintenance / Health Insurance;Insurance ;-$576.30;$313,989.28;Recurring
+32415;11/25/2018;PAYMENT/TRANSFER DEBIT;AI Machine Learning Loans;Loans;-$3,507.56;$310,481.72;Recurring
+32418;11/26/2018;PAYMENT/TRANSFER DEBIT;Personal Lawyer;Fees & Charges;-$741.59;$309,740.13;Recurring
+32395;11/26/2018;DEBIT PURCHASE;Pet High Chair;Pets;-$214.84;$309,525.29;Occaisional
+32422;12/01/2018;PAYMENT/TRANSFER DEBIT;Private Island Mortgage;Housing;-$25,753.84;$283,771.45;Recurring
+32421;12/01/2018;PAYMENT/TRANSFER DEBIT;Secret Lab Mortage;Housing;-$7,564.10;$276,207.35;Recurring
+32423;12/02/2018;PAYMENT/TRANSFER DEBIT;Emergency Shuttle Standby;Auto & Transport;-$2,789.47;$273,417.88;Recurring
+32424;12/03/2018;PAYMENT/TRANSFER DEBIT;Universal Subway Pass;Auto & Transport;-$638.07;$272,779.81;Recurring
+32425;12/04/2018;PAYMENT/TRANSFER DEBIT;Turbo Yacht - Mooring Fees;Auto & Transport;-$6,340.72;$266,439.09;Recurring
+32436;12/5/2018;ATM WITHDRAWAL;Work Caffeteria ATM;Uncategorized;-$100.75;$266,338.34;Occaisional
+32429;12/05/2018;PAYMENT/TRANSFER DEBIT;Car Maintentance Service;Auto & Transport;-$560.28;$265,778.06;Recurring
+32428;12/05/2018;PAYMENT/TRANSFER DEBIT;Galaxy Express Plutonium Card;Fees & Charges;-$5,241.34;$260,536.72;Recurring
+101546;12/05/2018;Direct Deposit;Dance of Mole Men - The Album;Royalties;$7,566.63;$268,103.35;Recurring
+32431;12/06/2018;PAYMENT/TRANSFER DEBIT;Electric & Gas;Utilities;-$1,046.30;$267,057.05;Recurring
+32427;12/06/2018;DEBIT PURCHASE;The Ledge at Skydeck;Food & Dining;-$224.09;$266,832.96;Occaisional
+32433;12/07/2018;PAYMENT/TRANSFER DEBIT;Secret Lab Insurance ;Insurance ;-$338.01;$266,494.95;Recurring
+32432;12/07/2018;PAYMENT/TRANSFER DEBIT;Private Island Volcano Insurance;Insurance ;-$2,581.41;$263,913.54;Recurring
+101584;12/07/2018;BALANCE TRANSER ;Savings Account;Transfer;$17,500.00;$281,413.54;Recurring
+32434;12/09/2018;DEBIT PURCHASE;Penthouse Rent/Timeshare;Housing;-$2,625.13;$278,788.41;Recurring
+32452;12/12/2018;DEBIT PURCHASE;The Rolling Stones, Private Show;Entertainment;-$6,251.59;$272,536.82;Occaisional
+32435;12/12/2018;PAYMENT/TRANSFER DEBIT;Personal Accountant;Fees & Charges;-$2,590.72;$269,946.10;Recurring
+32447;12/13/2018;DEBIT PURCHASE;Dirty Candy;Food & Dining;-$6.16;$269,939.94;Occaisional
+32437;12/13/2018;DEBIT PURCHASE;NetPix On Demand Video;Entertainment;-$0.81;$269,939.13;Occaisional
+32439;12/14/2018;PAYMENT/TRANSFER DEBIT;Emergency Medical Wing Standby;Health & Fitness;-$1,625.00;$268,314.13;Recurring
+32440;12/15/2018;DEBIT PURCHASE;Personal Satellite Network ;Utilities;-$6,256.59;$262,057.54;Recurring
+32441;12/16/2018;DEBIT PURCHASE;Azerbaijan Grand Prix track rental;Entertainment;-$5,163.25;$256,894.29;Occaisional
+101612;12/16/2018;BALANCE TRANSER ;Money Market;Transfer;$12,500.00;$269,394.29;Recurring
+32438;12/18/2018;DEBIT PURCHASE;Taco Shack;Food & Dining;-$30.99;$269,363.30;Occaisional
+32455;12/21/2018;ATM WITHDRAWAL;7-11 ATM;Uncategorized;-$100.63;$269,262.67;Occaisional
+32444;12/21/2018;PAYMENT/TRANSFER DEBIT;Life and Clone Term Insurance ;Insurance ;-$224.58;$269,038.09;Recurring
+32443;12/21/2018;DEBIT PURCHASE;Electric Gloves;Clothing & Personal ;-$213.24;$268,824.85;Occaisional
+32442;12/21/2018;DEBIT PURCHASE;Redwoods Treehouse;Food & Dining;-$347.47;$268,477.38;Occaisional
+32430;12/21/2018;DEBIT PURCHASE;Clicker Dog Training System;Pets;-$91.31;$268,386.07;Occaisional
+32445;12/22/2018;PAYMENT/TRANSFER DEBIT;Personal Trainer / Body Guard;Health & Fitness;-$3,091.49;$265,294.58;Recurring
+32446;12/23/2018;PAYMENT/TRANSFER DEBIT;Personal Stylist (part time) ;Clothing & Personal ;-$1,340.33;$263,954.25;Recurring
+32449;12/24/2018;PAYMENT/TRANSFER DEBIT;Personal Chef/Nutritionist;Food & Dining;-$2,164.87;$261,789.38;Recurring
+32448;12/24/2018;PAYMENT/TRANSFER DEBIT;Personal Concierge;Entertainment;-$626.75;$261,162.63;Recurring
+32451;12/25/2018;PAYMENT/TRANSFER DEBIT;Clone maintenance / Health Insurance;Insurance ;-$576.30;$260,586.33;Recurring
+32450;12/25/2018;PAYMENT/TRANSFER DEBIT;AI Machine Learning Loans;Loans;-$3,507.56;$257,078.77;Recurring
+32453;12/26/2018;PAYMENT/TRANSFER DEBIT;Personal Lawyer;Fees & Charges;-$741.59;$256,337.18;Recurring
+32426;12/26/2018;DEBIT PURCHASE;Vertu Constellation Smartphone;Shopping;-$3,413.06;$252,924.12;Occaisional
+32473;01/01/2019;DEBIT PURCHASE;Taco Shack;Food & Dining;-$21.48;$252,902.64;Occaisional
+32457;01/01/2019;PAYMENT/TRANSFER DEBIT;Private Island Mortgage;Housing;-$25,515.59;$227,387.05;Recurring
+32456;01/01/2019;PAYMENT/TRANSFER DEBIT;Secret Lab Mortage;Housing;-$7,296.35;$220,090.70;Recurring
+32458;01/02/2019;PAYMENT/TRANSFER DEBIT;Emergency Shuttle Standby;Auto & Transport;-$3,014.22;$217,076.48;Recurring
+32454;1/2/2019;DEBIT PURCHASE;Anti Radiation Eyebrow Waxing;Health & Fitness;-$211.88;$216,864.60;Occaisional
+32461;01/03/2019;PAYMENT/TRANSFER DEBIT;Universal Subway Pass;Auto & Transport;-$525.06;$216,339.54;Recurring
+32463;01/04/2019;PAYMENT/TRANSFER DEBIT;Turbo Yacht - Mooring Fees;Auto & Transport;-$4,255.80;$212,083.74;Recurring
+32465;01/05/2019;PAYMENT/TRANSFER DEBIT;Car Maintentance Service;Auto & Transport;-$538.26;$211,545.48;Recurring
+32464;01/05/2019;PAYMENT/TRANSFER DEBIT;Galaxy Express Plutonium Card;Fees & Charges;-$1,630.81;$209,914.67;Recurring
+101547;01/05/2019;Direct Deposit;Dance of Mole Men - The Album;Royalties;$6,002.92;$215,917.59;Recurring
+32466;01/06/2019;PAYMENT/TRANSFER DEBIT;Electric & Gas;Utilities;-$1,046.30;$214,871.29;Recurring
+32468;01/07/2019;PAYMENT/TRANSFER DEBIT;Secret Lab Insurance ;Insurance ;-$338.01;$214,533.28;Recurring
+32467;01/07/2019;PAYMENT/TRANSFER DEBIT;Private Island Volcano Insurance;Insurance ;-$2,581.41;$211,951.87;Recurring
+101585;01/07/2019;BALANCE TRANSER ;Savings Account;Transfer;$17,500.00;$229,451.87;Recurring
+32460;01/08/2019;DEBIT PURCHASE;Hot Tub for Dogs;Pets;-$1,125.53;$228,326.34;Occaisional
+32459;01/08/2019;DEBIT PURCHASE;McLaren Venge Bicycle;Shopping;-$4,500.59;$223,825.75;Occaisional
+32469;01/09/2019;DEBIT PURCHASE;Penthouse Rent/Timeshare;Housing;-$2,625.13;$221,200.62;Recurring
+32487;01/10/2019;DEBIT PURCHASE;Harry Potter and the Cursed Child;Entertainment;-$164.83;$221,035.79;Occaisional
+32471;01/11/2019;ATM WITHDRAWAL;Work Caffeteria ATM;Uncategorized;-$100.75;$220,935.04;Occaisional
+32470;01/12/2019;PAYMENT/TRANSFER DEBIT;Personal Accountant;Fees & Charges;-$2,590.72;$218,344.32;Recurring
+32472;01/13/2019;DEBIT PURCHASE;NetPix On Demand Video;Entertainment;-$0.81;$218,343.51;Occaisional
+32482;01/14/2019;DEBIT PURCHASE;Homewood Mountain Resort;Food & Dining;-$563.66;$217,779.85;Occaisional
+32474;01/14/2019;PAYMENT/TRANSFER DEBIT;Emergency Medical Wing Standby;Health & Fitness;-$1,625.00;$216,154.85;Recurring
+32477;01/15/2019;DEBIT PURCHASE;Dinner in the Sky;Food & Dining;-$317.13;$215,837.72;Occaisional
+32475;01/15/2019;DEBIT PURCHASE;Personal Satellite Network ;Utilities;-$3,755.09;$212,082.63;Recurring
+101559;01/15/2019;DIRECT DEPOSIT;Trust Fund Stock;Dividends;$174,921.62;$387,004.25;Recurring
+32476;01/16/2019;DEBIT PURCHASE;Abu Dhabi Grand Prix;Entertainment;-$4,666.91;$382,337.34;Occaisional
+101613;01/16/2019;BALANCE TRANSER ;Money Market;Transfer;$12,500.00;$394,837.34;Recurring
+32479;01/21/2019;PAYMENT/TRANSFER DEBIT;Life and Clone Term Insurance ;Insurance ;-$224.58;$394,612.76;Recurring
+32478;01/21/2019;DEBIT PURCHASE;Hoverboard Shoes;Clothing & Personal ;-$223.83;$394,388.93;Occaisional
+32480;01/22/2019;PAYMENT/TRANSFER DEBIT;Personal Trainer / Body Guard;Health & Fitness;-$3,091.49;$391,297.44;Recurring
+32490;01/23/2019;ATM WITHDRAWAL;7-11 ATM;Uncategorized;-$100.63;$391,196.81;Occaisional
+32481;01/23/2019;PAYMENT/TRANSFER DEBIT;Personal Stylist (part time) ;Clothing & Personal ;-$1,340.33;$389,856.48;Recurring
+32484;01/24/2019;PAYMENT/TRANSFER DEBIT;Personal Chef/Nutritionist;Food & Dining;-$2,164.87;$387,691.61;Recurring
+32483;01/24/2019;PAYMENT/TRANSFER DEBIT;Personal Concierge;Entertainment;-$626.75;$387,064.86;Recurring
+32486;01/25/2019;PAYMENT/TRANSFER DEBIT;Clone maintenance / Health Insurance;Insurance ;-$576.30;$386,488.56;Recurring
+32485;01/25/2019;PAYMENT/TRANSFER DEBIT;AI Machine Learning Loans;Loans;-$3,255.08;$383,233.48;Recurring
+32488;01/26/2019;PAYMENT/TRANSFER DEBIT;Personal Lawyer;Fees & Charges;-$741.59;$382,491.89;Recurring
+32462;01/28/2019;DEBIT PURCHASE;Namale Fiji;Food & Dining;-$922.31;$381,569.58;Occaisional
+32497;02/01/2019;DEBIT PURCHASE;Zauo;Food & Dining;-$589.09;$380,980.49;Occaisional
+32492;02/01/2019;PAYMENT/TRANSFER DEBIT;Private Island Mortgage;Housing;-$25,515.59;$355,464.90;Recurring
+32491;02/01/2019;PAYMENT/TRANSFER DEBIT;Secret Lab Mortage;Housing;-$7,296.35;$348,168.55;Recurring
+32493;02/02/2019;PAYMENT/TRANSFER DEBIT;Emergency Shuttle Standby;Auto & Transport;-$3,014.22;$345,154.33;Recurring
+32496;02/03/2019;PAYMENT/TRANSFER DEBIT;Universal Subway Pass;Auto & Transport;-$525.06;$344,629.27;Recurring
+32494;02/03/2019;DEBIT PURCHASE;Emperor 200 PC WorkStation;Shopping;-$5,091.39;$339,537.88;Occaisional
+32498;02/04/2019;PAYMENT/TRANSFER DEBIT;Turbo Yacht - Mooring Fees;Auto & Transport;-$4,255.80;$335,282.08;Recurring
+32500;02/05/2019;PAYMENT/TRANSFER DEBIT;Car Maintentance Service;Auto & Transport;-$538.26;$334,743.82;Recurring
+32499;02/05/2019;PAYMENT/TRANSFER DEBIT;Galaxy Express Plutonium Card;Fees & Charges;-$16,308.84;$318,434.98;Recurring
+32495;02/05/2019;DEBIT PURCHASE;Autoelex Pet Pavilion ;Pets;-$1,424.58;$317,010.40;Occaisional
+101548;02/05/2019;Direct Deposit;Dance of Mole Men - The Album;Royalties;$4,439.21;$321,449.61;Recurring
+32501;02/06/2019;PAYMENT/TRANSFER DEBIT;Electric & Gas;Utilities;-$1,046.30;$320,403.31;Recurring
+32525;02/07/2019;DEBIT PURCHASE;Zero Gravity Yoga Training;Health & Fitness;-$3,755.08;$316,648.23;Occaisional
+32503;02/07/2019;PAYMENT/TRANSFER DEBIT;Secret Lab Insurance ;Insurance ;-$338.01;$316,310.22;Recurring
+32502;02/07/2019;PAYMENT/TRANSFER DEBIT;Private Island Volcano Insurance;Insurance ;-$2,581.41;$313,728.81;Recurring
+101586;02/07/2019;BALANCE TRANSER ;Savings Account;Transfer;$17,500.00;$331,228.81;Recurring
+32508;02/08/2019;DEBIT PURCHASE;Taco Shack;Food & Dining;-$8.99;$331,219.82;Occaisional
+32504;02/09/2019;DEBIT PURCHASE;Penthouse Rent/Timeshare;Housing;-$2,625.13;$328,594.69;Recurring
+32505;02/12/2019;PAYMENT/TRANSFER DEBIT;Personal Accountant;Fees & Charges;-$2,590.72;$326,003.97;Recurring
+32507;02/13/2019;DEBIT PURCHASE;NetPix On Demand Video;Entertainment;-$0.81;$326,003.16;Occaisional
+32489;02/13/2019;DEBIT PURCHASE;Remote Start pacemaker implant;Health & Fitness;-$38,000.06;$288,003.10;Occaisional
+32509;02/14/2019;PAYMENT/TRANSFER DEBIT;Emergency Medical Wing Standby;Health & Fitness;-$1,625.00;$286,378.10;Recurring
+32510;02/15/2019;DEBIT PURCHASE;Personal Satellite Network ;Utilities;-$3,755.09;$282,623.01;Recurring
+32511;02/16/2019;DEBIT PURCHASE;Maclaren Rental;Entertainment;-$2,163.30;$280,459.71;Occaisional
+101614;02/16/2019;BALANCE TRANSER ;Money Market;Transfer;$12,500.00;$292,959.71;Recurring
+32512;02/17/2019;ATM WITHDRAWAL;7-11 ATM;Uncategorized;-$100.63;$292,859.08;Occaisional
+32506;02/18/2019;ATM WITHDRAWAL;Work Caffeteria ATM;Uncategorized;-$100.75;$292,758.33;Occaisional
+32515;02/21/2019;PAYMENT/TRANSFER DEBIT;Life and Clone Term Insurance ;Insurance ;-$224.58;$292,533.75;Recurring
+32514;02/21/2019;DEBIT PURCHASE;Fireproof cape;Clothing & Personal ;-$259.21;$292,274.54;Occaisional
+32516;02/22/2019;PAYMENT/TRANSFER DEBIT;Personal Trainer / Body Guard;Health & Fitness;-$3,091.49;$289,183.05;Recurring
+32513;02/22/2019;DEBIT PURCHASE;Ninja New York;Food & Dining;-$223.84;$288,959.21;Occaisional
+32517;02/23/2019;PAYMENT/TRANSFER DEBIT;Personal Stylist (part time) ;Clothing & Personal ;-$1,340.33;$287,618.88;Recurring
+32520;02/24/2019;PAYMENT/TRANSFER DEBIT;Personal Chef/Nutritionist;Food & Dining;-$2,164.87;$285,454.01;Recurring
+32519;02/24/2019;PAYMENT/TRANSFER DEBIT;Personal Concierge;Entertainment;-$626.75;$284,827.26;Recurring
+32522;02/25/2019;PAYMENT/TRANSFER DEBIT;Clone maintenance / Health Insurance;Insurance ;-$576.30;$284,250.96;Recurring
+32521;02/25/2019;PAYMENT/TRANSFER DEBIT;AI Machine Learning Loans;Loans;-$3,255.08;$280,995.88;Recurring
+32524;02/26/2019;PAYMENT/TRANSFER DEBIT;Personal Lawyer;Fees & Charges;-$741.59;$280,254.29;Recurring
+32518;02/26/2019;DEBIT PURCHASE;Ninja Dining;Food & Dining;-$713.66;$279,540.63;Occaisional
+32527;03/01/2019;PAYMENT/TRANSFER DEBIT;Private Island Mortgage;Housing;-$25,515.59;$254,025.04;Recurring
+32526;03/01/2019;PAYMENT/TRANSFER DEBIT;Secret Lab Mortage;Housing;-$7,296.35;$246,728.69;Recurring
+32528;03/02/2019;PAYMENT/TRANSFER DEBIT;Emergency Shuttle Standby;Auto & Transport;-$3,014.22;$243,714.47;Recurring
+32531;03/03/2019;PAYMENT/TRANSFER DEBIT;Universal Subway Pass;Auto & Transport;-$525.06;$243,189.41;Recurring
+32533;03/04/2019;PAYMENT/TRANSFER DEBIT;Turbo Yacht - Mooring Fees;Auto & Transport;-$4,255.80;$238,933.61;Recurring
+32535;03/05/2019;PAYMENT/TRANSFER DEBIT;Car Maintentance Service;Auto & Transport;-$538.26;$238,395.35;Recurring
+32534;03/05/2019;PAYMENT/TRANSFER DEBIT;Galaxy Express Plutonium Card;Fees & Charges;-$6,408.00;$231,987.35;Recurring
+101549;03/05/2019;Direct Deposit;Dance of Mole Men - The Album;Royalties;$2,875.50;$234,862.85;Recurring
+32536;03/06/2019;PAYMENT/TRANSFER DEBIT;Electric & Gas;Utilities;-$1,046.30;$233,816.55;Recurring
+32552;03/07/2019;DEBIT PURCHASE;Masa;Food & Dining;-$63.66;$233,752.89;Occaisional
+32538;03/07/2019;PAYMENT/TRANSFER DEBIT;Secret Lab Insurance ;Insurance ;-$338.01;$233,414.88;Recurring
+32537;03/07/2019;PAYMENT/TRANSFER DEBIT;Private Island Volcano Insurance;Insurance ;-$2,581.41;$230,833.47;Recurring
+32530;03/07/2019;DEBIT PURCHASE;PetZen DogTread Motorized Exercise Treadmill ;Pets;-$3,014.06;$227,819.41;Occaisional
+32529;03/07/2019;DEBIT PURCHASE;10 Self Driving Rocking Chairs;Shopping;-$3,758.22;$224,061.19;Occaisional
+101587;03/07/2019;BALANCE TRANSER ;Savings Account;Transfer;$17,500.00;$241,561.19;Recurring
+32539;03/09/2019;DEBIT PURCHASE;Penthouse Rent/Timeshare;Housing;-$2,625.13;$238,936.06;Recurring
+32540;03/12/2019;PAYMENT/TRANSFER DEBIT;Personal Accountant;Fees & Charges;-$2,590.72;$236,345.34;Recurring
+32559;03/13/2019;DEBIT PURCHASE;Giant Infared Healing Clam;Health & Fitness;-$3,500.81;$232,844.53;Occaisional
+32543;03/13/2019;DEBIT PURCHASE;Taco Shack;Food & Dining;-$81.49;$232,763.04;Occaisional
+32542;03/13/2019;DEBIT PURCHASE;NetPix On Demand Video;Entertainment;-$0.81;$232,762.23;Occaisional
+32544;03/14/2019;PAYMENT/TRANSFER DEBIT;Emergency Medical Wing Standby;Health & Fitness;-$1,625.00;$231,137.23;Recurring
+32532;03/14/2019;DEBIT PURCHASE;Guy Savoy, Paris (Groupon) ;Food & Dining;-$3,158.75;$227,978.48;Occaisional
+32545;03/15/2019;DEBIT PURCHASE;Personal Satellite Network ;Utilities;-$3,755.09;$224,223.39;Recurring
+32546;03/16/2019;DEBIT PURCHASE;Australian Grand Prix ;Entertainment;-$4,666.91;$219,556.48;Occaisional
+101615;03/16/2019;BALANCE TRANSER ;Money Market;Transfer;$12,500.00;$232,056.48;Recurring
+32560;03/20/2019;ATM WITHDRAWAL;7-11 ATM;Uncategorized;-$100.63;$231,955.85;Occaisional
+32547;03/20/2019;DEBIT PURCHASE;Ithaa Undersea Restaurant;Food & Dining;-$6,723.87;$225,231.98;Occaisional
+32549;03/21/2019;PAYMENT/TRANSFER DEBIT;Life and Clone Term Insurance ;Insurance ;-$224.58;$225,007.40;Recurring
+32548;03/21/2019;DEBIT PURCHASE;Custom Space Helmet;Clothing & Personal ;-$1,308.25;$223,699.15;Occaisional
+32541;03/21/2019;ATM WITHDRAWAL;Work Caffeteria ATM;Uncategorized;-$100.75;$223,598.40;Occaisional
+32550;03/22/2019;PAYMENT/TRANSFER DEBIT;Personal Trainer / Body Guard;Health & Fitness;-$3,091.49;$220,506.91;Recurring
+32551;03/23/2019;PAYMENT/TRANSFER DEBIT;Personal Stylist (part time) ;Clothing & Personal ;-$1,340.33;$219,166.58;Recurring
+32554;03/24/2019;PAYMENT/TRANSFER DEBIT;Personal Chef/Nutritionist;Food & Dining;-$2,164.87;$217,001.71;Recurring
+32553;03/24/2019;PAYMENT/TRANSFER DEBIT;Personal Concierge;Entertainment;-$626.75;$216,374.96;Recurring
+32556;03/25/2019;PAYMENT/TRANSFER DEBIT;Clone maintenance / Health Insurance;Insurance ;-$576.30;$215,798.66;Recurring
+32555;03/25/2019;PAYMENT/TRANSFER DEBIT;AI Machine Learning Loans;Loans;-$3,255.08;$212,543.58;Recurring
+32558;03/26/2019;PAYMENT/TRANSFER DEBIT;Personal Lawyer;Fees & Charges;-$741.59;$211,801.99;Recurring
+32557;03/26/2019;DEBIT PURCHASE;Hamilton, Private Show;Entertainment;-$6,251.59;$205,550.40;Occaisional
