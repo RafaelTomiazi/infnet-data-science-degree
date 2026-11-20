@@ -1,0 +1,18 @@
+# coisas pessoais e material do Infnet (repo é público)
+_privado/
+
+# python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+
+# lixo
+*.zip
+Thumbs.db
+.DS_Store
+
+# instruções locais do assistente (não publicar)
+CLAUDE.md
