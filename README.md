@@ -16,7 +16,7 @@ Status: ✅ done · 🟡 in progress · ⬜ not started · 📦 material not imp
 | 25E3 | Intro to Data Visualization and SQL | [sql-data-visualization](semester-01/sql-data-visualization/) | ✅ |
 | 25E3 | Intro to Programming with Python | — | ✅ 📦 |
 | 25E4 | SQL and Relational Modeling | — | ✅ 📦 |
-| 25E4 | Python for Data Processing | — | ✅ 📦 |
+| 25E4 | Python for Data Processing | [python-data-processing](semester-01/python-data-processing/) | ✅ 📦 |
 | 25E4 | Block Project: Data Processing Fundamentals | — | ✅ 📦 |
 
 ### Semester 02 — Artificial Intelligence and Machine Learning (2026)
