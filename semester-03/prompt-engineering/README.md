@@ -16,6 +16,7 @@
 ## Aulas
 | Data | Tema | Nota |
 |---|---|---|
+| 26/10 | CRISP-DM com prompts: avaliação, outliers e comunicação | [nota](notes/2026-10-26-crisp-dm-avaliacao-e-comunicacao.md) |
 
 ## Dúvidas abertas
 - 
